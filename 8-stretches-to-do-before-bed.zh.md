@@ -1,124 +1,139 @@
-# [8 Stretches to Do Before Bed](https://www.healthline.com/health/stretching-before-bed)
+# [睡前8个拉伸动作](https://www.healthline.com/health/stretching-before-bed)
 
-## 1. 熊抱（Bear hug）
+在众多[自然睡眠疗法](https://www.healthline.com/health/healthy-sleep/natural-sleep-aids)中——从喝洋甘菊茶到扩散精油——拉伸常常被忽视。但这个简单的动作可能帮助你更快入睡，改善睡眠质量。
 
-这个拉伸运动可以锻炼你上背部的[菱形肌](https://www.healthline.com/human-body-maps/rhomboid-major-muscle)和[斜方肌](https://www.healthline.com/human-body-maps/trapezius-muscle)。它有助于缓解由于不良姿势、滑囊炎或[冻结肩](https://www.healthline.com/health/frozen-shoulder)导致的肩胛骨不适或疼痛。
+一项[2016年的研究综述](https://doi.org/10.1016/j.smrv.2015.12.001)发现，冥想运动（如[太极](https://www.healthline.com/health/tai-chi-benefits)和[瑜伽](https://www.healthline.com/health/fitness-exercises/definitive-guide-to-yoga)）与改善的睡眠质量之间存在关联。这种改善的睡眠质量又进一步与更好的生活质量相关联。
 
-**执行此拉伸的方法：**
+那么，为什么拉伸会对睡眠产生这样的影响呢？这可能是多方面原因结合导致的。
 
-1. 站直，并在张开双臂时吸气。
-2. 呼气时交叉双臂，右臂放在左臂上，左臂放在右臂上，给自己一个拥抱。
-3. 深呼吸，用双手向前引导你的肩膀。
-4. 保持这个拉伸30秒。
-5. 释放时，吸气张开双臂。
-6. 呼气，并用左臂在上方重复。
+首先，通过拉伸与你的身体保持联系，有助于将注意力集中在你的呼吸和身体上，而不是一天中的压力源。这种对身体的觉察帮助你培养[正念](https://www.healthline.com/health/mindfulness-tricks-to-reduce-anxiety)，而正念被[研究](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4407465/)表明有助于促进更好的睡眠。
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Bear_Hug-1296x728-Body1.jpg?w=300)
+拉伸还有潜在的身体益处，帮助缓解肌肉紧张，防止睡眠中打扰的抽筋。只需确保选择温和的拉伸——睡前进行剧烈锻炼可能会产生相反的效果。
 
-## 2. 脖子拉伸（Neck stretches）
+以下是8个可以纳入你夜间例行活动的拉伸动作。
 
-这些拉伸有助于缓解头部、颈部和肩部的紧张。在做这些动作时尽量保持良好的姿势。
+## 1. 熊抱
 
-**执行这些拉伸的方法：**
+这个拉伸动作可以锻炼你上背部的[菱形肌](https://www.healthline.com/human-body-maps/rhomboid-major-muscle)和[斜方肌](https://www.healthline.com/human-body-maps/trapezius-muscle) 。它有助于缓解因不良姿势、滑囊炎或[肩周炎](https://www.healthline.com/health/frozen-shoulder)引起的肩胛骨不适或疼痛。
 
-1. 坐在一个舒适的椅子上。用右手放在头顶或左耳上。
-2. 轻轻地把右耳靠近右肩，保持这个位置五次呼吸。
+**操作步骤：**
+
+1. 站直，吸气，双臂大幅张开。
+2. 呼气时交叉双臂，将右臂置于左臂上，左臂置于右臂上，给自己一个拥抱。
+3. 深呼吸，双手拉动肩膀向前。
+4. 保持这个拉伸姿势30秒。
+5. 释放时，吸气，双臂再打开。
+6. 呼气，左臂在上，重复。
+
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_01.webp)  
+图片来源：Active Body, Creative Mind
+
+## 2. 颈部拉伸
+
+这些拉伸有助于缓解头部、颈部和肩部的紧张。在做这些动作时，尽量保持良好的姿势。
+
+**操作步骤：**
+
+1. 坐在舒适的椅子上，右手放在头顶或左耳上。
+2. 温和地将右耳靠向右肩，保持这个姿势五次呼吸。
 3. 在另一侧重复。
-4. 转头看向右肩，保持身体其他部分面向前方。
-5. 保持这个位置五次呼吸。
-6. 在另一侧重复。
-
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Neck_Stretches_1296x728-Body2.jpg?w=300)
-
-1. 将下巴低垂到胸前，保持五次呼吸。
-2. 恢复至中性位置，让头部轻轻后仰五次呼吸。
-
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Neck_Stretches_1296x728-Body4.jpg?w=300)
-
-## 3. 跪姿侧背拉伸（Kneeling lat stretch）
-
-这个拉伸有助于放松背部和肩部的肌肉，缓解疼痛和不适。
-
-**执行此拉伸的方法：**
-
-1. 跪在椅子、沙发或低桌子前面。
-2. 确保膝盖直接在髋部下方。你可以在毯子或垫子上休息以获得额外支持。
-3. 伸展脊柱，从髋部折叠向前，前臂放在表面上，手掌相对。
-4. 保持这个拉伸30秒。
-5. 重复一到三次。
-
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Kneeling_Lat_Stetch-1296x728-Body5.jpg?w=300)
-
-## 4. 儿童式（Child’s pose）
-
-儿童式是一种休息拉伸，类似于跪姿侧背拉伸，但更为放松。它适合调节呼吸、放松身体和减轻压力。它还有助于缓解背部、肩部和颈部的疼痛与紧张。
-
-**执行此拉伸的方法：**
-
-1. 跪下，坐在脚后跟上。
-2. 从髋部折叠向前，将前额放在地板上。
-3. 双臂向前伸展以支撑颈部，或将手臂放在身体两侧。你可以在大腿或前额下放个枕头或垫子以获得额外支持。
-4. 深呼吸，同时保持这个姿势，将注意力集中在背部的不适或紧张区域。
-5. 最多保持这个姿势5分钟。你也可以在进行其他拉伸之间进行这个姿势来给身体休息。
-
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Childs_Pose-1296x728-Body6.jpg?w=300)[在Pinterest上分享](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Fstretching-before-bed&media=https%3A%2F%2Fpost.healthline.com%2Fwp-content%2Fuploads%2F2018%2F10%2F8_Stretches_to_Do_At_Night_Before_Sleep_Childs_Pose-1296x728-Body6.jpg&description=Stretching%20Before%20Bed%3A%208%20Stretches%20to%20Do%20at%20Night%20Before%20Sleep "在Pinterest上分享")
-
-## 5. 低弓步（Low lunge）
-
-这个弓步拉伸你的髋部、大腿和腹股沟。打开胸部有助于缓解这个区域以及背部和肩部的紧张和疼痛。尽量在做这个姿势时保持放松，不要勉强自己。
-
-**执行此拉伸的方法：**
-
-1. 进入左脚在右膝下方、右腿向后伸展的低弓步，保持膝盖在地面上。
-2. 双手放在肩膀下方的地面上，或放在膝盖上，或向上伸展至天花板。
-3. 深呼吸，专注于延展脊柱并打开胸部。
-4. 感受能量线从头顶延伸出去。
+4. 转头看向右肩，保持身体其他部分朝前。
 5. 保持这个姿势五次呼吸。
 6. 在另一侧重复。
 
-![](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Low_Lunge-1296x728-Body7.jpg?w=300)
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_02.webp)  
+图片来源：Active Body, Creative Mind
 
-## 6. 坐姿前屈（Seated forward bend）
+1. 将下巴垂向胸部，保持五次呼吸。
+2. 恢复到中立位置，轻轻地将头向后仰五次呼吸。 
 
-这个拉伸有助于放松脊柱、肩部和腿后肌。它也拉伸了你的下背部。
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_03.webp)  
+图片来源：Active Body, Creative Mind
 
-**执行此拉伸的方法：**
+## 3. 跪姿背部拉伸
 
-1. 坐下，双腿向前伸展。
-2. 轻微收腹以伸长脊柱，把坐骨压入地面。
-3. 从髋部折叠向前，双臂向前伸展。
-4. 放松头部，低下下巴贴近胸部。
-5. 最多保持这个姿势5分钟。
+这个拉伸有助于放松背部和肩部的肌肉，缓解疼痛和不适。
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Seated_Forward_Bend-1296x728-Body8.jpg?w=300)
+**操作步骤：**
 
-## 7. 壁坐（Legs-up-the-wall pose）
+1. 在椅子、沙发或低桌前跪下。
+2. 确保膝盖直接在臀部下方。你可以在上面加一条毛毯或垫子以增加支撑。
+3. 长伸脊柱，向前屈体，将前臂放在表面上，掌心相对。
+4. 保持这个拉伸姿势30秒。
+5. 重复1到3次。
 
-这是一个恢复姿势，有助于减轻背部、肩部和颈部的紧张，同时促进放松。
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_04.webp)  
+图片来源：Active Body, Creative Mind
 
-**执行此拉伸的方法：**
+## 4. 儿童式
 
-1. 身体右侧靠墙坐着。
-2. 仰卧，腿向上摆放在墙上。
-3. 髋部可以靠墙或者距离几英寸，选择最舒适的距离。你也可以在髋部下放个垫子以获得支持和一些高度。
-4. 双臂放在任何舒适的位置。
-5. 最多保持这个姿势10分钟。
+儿童式是一个休息拉伸，类似于跪姿背部拉伸，更加放松。它非常适合调节呼吸、放松身体和减轻压力。它还帮助缓解背部、肩部和颈部的疼痛和紧张。
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Legs_Up_the_Wall_Pose-1296x728-Body9.jpg?w=300)
+**操作步骤：**
 
-## 8. 躺卧束角式（Reclining bound angle pose）
+1. 跪下，坐在脚后跟上。
+2. 在臀部屈曲的同时向前屈体，额头放在地面上。
+3. 前臂向前伸展支撑脖子，或者将臂放在身体两侧。你可以在大腿或额头下放一个枕头或垫子以获得额外支持。
+4. 深呼吸，保持这个姿势，注意你背部的任何不适或紧绷的区域。
+5. 保持此姿势最多5分钟。你也可以在其他拉伸之间采取此姿势，以给身体一段时间休息。
 
-这个放松的髋部打开者有助于缓解髋部和腹股沟的肌肉紧张，尤其适合大部分时间坐着的人。
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_05.webp)  
+图片来源：Active Body, Creative Mind
 
-**执行此拉伸的方法：**
+## 5. 低位弓步
 
-1. 坐在地上，将脚掌相对，脚跟靠近身体。
-2. 后仰，双手支撑身体，背部、脖子和头部靠在地面上。你可以在膝盖下或头部下放些垫子或枕头以获得支持。
-3. 双臂放在任何舒适的位置。
-4. 在深呼吸的同时，专注于放松髋部和大腿。
-5. 最多保持这个姿势10分钟。
+这个弓步拉伸你的臀部、大腿和腹股沟。打开胸部有助于缓解这一区域以及背部和肩部的紧张和疼痛。尽量在做这个姿势时保持放松，不要过于用力。
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Reclining_Bound_Angle-1296x728-Body10.jpg?w=300)
+**操作步骤：**
 
-[GPT-4o mini]
+1. 进入低位弓步，右脚在右膝下，左腿向后伸展，膝盖保持在地面上。
+2. 双手放在肩膀下方的地面上、或膝盖上、或向上伸展。
+3. 深呼吸，专注于拉长脊柱和打开胸部。
+4. 感受从头顶延伸出的能量线。
+5. 保持这个姿势五次呼吸。
+6. 在另一侧重复。
 
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_06.webp)  
+图片来源：Active Body, Creative Mind
+
+## 6. 坐姿前倾拉伸
+
+这个拉伸有助于放松脊柱、肩部和腿筋。它还可以拉伸下背部。
+
+**操作步骤：**
+
+1. 坐下，双腿伸展在你前面。
+2. 稍微收紧腹部，拉长脊柱，坐骨压在地面。
+3. 向前屈体，将双臂伸出。
+4. 放松头部，微微将下巴收向胸部。
+5. 保持此姿势最多5分钟。
+
+## 7. 倒踩墙壁姿势
+
+这是一个恢复姿势，帮助减轻背部、肩部和颈部的紧张，同时促进放松。
+
+**操作步骤：**
+
+1. 坐在一面墙旁。
+2. 仰卧，挥动双腿靠在墙壁上。
+3. 你的臀部可以靠墙或离墙几英寸。选择最舒适的距离。你也可以在臀部下方放一个垫子以获得支撑和一点提升。
+4. 双手保持在任何舒适的位置。
+5. 保持此姿势最多10分钟。
+
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_07.webp)  
+图片来源：Active Body, Creative Mind
+
+## 8. 倒坐拱脚
+
+这个放松的髋部展开动作有助于缓解髋部和腹股沟的肌肉紧张，特别适合那些大部分时间都在坐着的人。
+
+**操作步骤：**
+
+1. 坐在地上，双脚掌相对。
+2. 倾靠双手，使背部、脖子和头部贴近地面。你可以在膝盖或头下放置垫子或枕头以获得支撑。
+3. 将双手休息在任何舒适的位置。
+4. 深呼吸，专注于放松臀部和大腿。
+5. 保持此姿势最多10分钟。
+
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_08.webp)  
+图片来源：Active Body, Creative Mind

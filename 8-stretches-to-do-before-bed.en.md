@@ -1,124 +1,139 @@
-# [睡前的8个拉伸运动](https://www.healthline.com/health/stretching-before-bed)
+# [8 Stretches to Do Before Bed](https://www.healthline.com/health/stretching-before-bed)
 
-## 1. 熊抱（Bear hug）
+Among [natural sleep remedies](https://www.healthline.com/health/healthy-sleep/natural-sleep-aids) — from drinking chamomile tea to diffusing essential oils — stretching is often overlooked. But this simple act may help you fall asleep faster and improve the quality of your sleep.
 
-这个拉伸运动可以锻炼你上背部的[菱形肌](https://www.healthline.com/human-body-maps/rhomboid-major-muscle)和[斜方肌](https://www.healthline.com/human-body-maps/trapezius-muscle)。它有助于缓解由于不良姿势、滑囊炎或[冻结肩](https://www.healthline.com/health/frozen-shoulder)导致的肩胛骨不适或疼痛。
+A [2016 review of studies](https://doi.org/10.1016/j.smrv.2015.12.001) found a link between meditative movements (such as [tai chi](https://www.healthline.com/health/tai-chi-benefits) and [yoga](https://www.healthline.com/health/fitness-exercises/definitive-guide-to-yoga)) and improved sleep quality. This improved sleep quality was further linked to a better quality of life.
 
-**执行此拉伸的方法：**
+But why does stretching have this effect on sleep? It’s likely a mix of things.
 
-1. 站直，并在张开双臂时吸气。
-2. 呼气时交叉双臂，右臂放在左臂上，左臂放在右臂上，给自己一个拥抱。
-3. 深呼吸，用双手向前引导你的肩膀。
-4. 保持这个拉伸30秒。
-5. 释放时，吸气张开双臂。
-6. 呼气，并用左臂在上方重复。
+For one, getting in touch with your body by stretching helps to focus your attention on your breath and body, not the stressors of the day. This awareness of your body helps you develop [mindfulness](https://www.healthline.com/health/mindfulness-tricks-to-reduce-anxiety), which has been [shownTrusted Source](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4407465/) to help promote better sleep.
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Bear_Hug-1296x728-Body1.jpg?w=300)
+Stretching also offers potential physical benefits, helping to relieve muscle tension and prevent sleep-disrupting cramps. Just make sure to stick to gentle stretches — doing a big workout before bed can have the opposite effect.
 
-## 2. 脖子拉伸（Neck stretches）
+Here are eight stretches to add to your nightly routine.
 
-这些拉伸有助于缓解头部、颈部和肩部的紧张。在做这些动作时尽量保持良好的姿势。
+## 1\. Bear hug
 
-**执行这些拉伸的方法：**
+This stretch works the [rhomboids](https://www.healthline.com/human-body-maps/rhomboid-major-muscle) and [trapezius](https://www.healthline.com/human-body-maps/trapezius-muscle) muscles of your upper back. It helps to alleviate shoulder blade discomfort or pain that’s caused by poor posture, bursitis, or [frozen shoulder](https://www.healthline.com/health/frozen-shoulder).
 
-1. 坐在一个舒适的椅子上。用右手放在头顶或左耳上。
-2. 轻轻地把右耳靠近右肩，保持这个位置五次呼吸。
-3. 在另一侧重复。
-4. 转头看向右肩，保持身体其他部分面向前方。
-5. 保持这个位置五次呼吸。
-6. 在另一侧重复。
+**To do this stretch:**
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Neck_Stretches_1296x728-Body2.jpg?w=300)
+1. Stand tall and inhale as you open your arms out wide.
+2. Exhale as you cross your arms, placing your right arm over your left and your left over your right to give yourself a hug.
+3. Breathe deeply as you use your hands to draw your shoulders forward.
+4. Hold this stretch for 30 seconds.
+5. To release, inhale to open your arms back open wide.
+6. Exhale and repeat with your left arm on top.
 
-1. 将下巴低垂到胸前，保持五次呼吸。
-2. 恢复至中性位置，让头部轻轻后仰五次呼吸。
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_01.webp)  
+Photo via Active Body, Creative Mind
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Neck_Stretches_1296x728-Body4.jpg?w=300)
+## 2\. Neck stretches
 
-## 3. 跪姿侧背拉伸（Kneeling lat stretch）
+These stretches will help to relieve tension in your head, neck, and shoulders. Try to focus on maintaining good posture when doing these.
 
-这个拉伸有助于放松背部和肩部的肌肉，缓解疼痛和不适。
+**To do these stretches:**
 
-**执行此拉伸的方法：**
+1. Sit in a comfortable chair. Take your right hand to the top of your head or to your left ear.
+2. Gently bring your right ear towards your right shoulder, holding this position for five breaths.
+3. Repeat on the opposite side.
+4. Turn to look over your right shoulder, keeping the rest of your body facing forward.
+5. Hold this position for five breaths.
+6. Repeat on the opposite side.
 
-1. 跪在椅子、沙发或低桌子前面。
-2. 确保膝盖直接在髋部下方。你可以在毯子或垫子上休息以获得额外支持。
-3. 伸展脊柱，从髋部折叠向前，前臂放在表面上，手掌相对。
-4. 保持这个拉伸30秒。
-5. 重复一到三次。
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_02.webp)  
+Photo via Active Body, Creative Mind
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Kneeling_Lat_Stetch-1296x728-Body5.jpg?w=300)
+1. Drop your chin down to your chest, holding it there for five breaths.
+2. Return to a neutral position and allow your head to gently fall back for five breaths. 
 
-## 4. 儿童式（Child’s pose）
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_03.webp)  
+Photo via Active Body, Creative Mind
 
-儿童式是一种休息拉伸，类似于跪姿侧背拉伸，但更为放松。它适合调节呼吸、放松身体和减轻压力。它还有助于缓解背部、肩部和颈部的疼痛与紧张。
+## 3\. Kneeling lat stretch
 
-**执行此拉伸的方法：**
+This stretch helps to loosen up the muscles in your back and shoulders, relieving pain and discomfort.
 
-1. 跪下，坐在脚后跟上。
-2. 从髋部折叠向前，将前额放在地板上。
-3. 双臂向前伸展以支撑颈部，或将手臂放在身体两侧。你可以在大腿或前额下放个枕头或垫子以获得额外支持。
-4. 深呼吸，同时保持这个姿势，将注意力集中在背部的不适或紧张区域。
-5. 最多保持这个姿势5分钟。你也可以在进行其他拉伸之间进行这个姿势来给身体休息。
+**To do this stretch:**
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Childs_Pose-1296x728-Body6.jpg?w=300)[在Pinterest上分享](https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.healthline.com%2Fhealth%2Fstretching-before-bed&media=https%3A%2F%2Fpost.healthline.com%2Fwp-content%2Fuploads%2F2018%2F10%2F8_Stretches_to_Do_At_Night_Before_Sleep_Childs_Pose-1296x728-Body6.jpg&description=Stretching%20Before%20Bed%3A%208%20Stretches%20to%20Do%20at%20Night%20Before%20Sleep "在Pinterest上分享")
+1. Come into a kneeling position in front of a chair, couch, or low table.
+2. Check that your knees are directly under your hips. You can rest on a blanket or cushion for extra support.
+3. Lengthen your spine as you hinge at the hips to fold forward, resting your forearms on the surface with your palms facing together.
+4. Hold this stretch for 30 seconds.
+5. Repeat one to three times.
 
-## 5. 低弓步（Low lunge）
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_04.webp)  
+Photo via Active Body, Creative Mind
 
-这个弓步拉伸你的髋部、大腿和腹股沟。打开胸部有助于缓解这个区域以及背部和肩部的紧张和疼痛。尽量在做这个姿势时保持放松，不要勉强自己。
+## 4\. Child's pose
 
-**执行此拉伸的方法：**
+Child’s Pose is a resting stretch that’s similar to a kneeling lat stretch, but more relaxed. It’s perfect for tuning into your breath, relaxing your body, and reducing stress. It also helps to relieve pain and tension in your back, shoulders, and neck.
 
-1. 进入左脚在右膝下方、右腿向后伸展的低弓步，保持膝盖在地面上。
-2. 双手放在肩膀下方的地面上，或放在膝盖上，或向上伸展至天花板。
-3. 深呼吸，专注于延展脊柱并打开胸部。
-4. 感受能量线从头顶延伸出去。
-5. 保持这个姿势五次呼吸。
-6. 在另一侧重复。
+**To do this stretch:**
 
-![](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Low_Lunge-1296x728-Body7.jpg?w=300)
+1. Come down on your knees, sitting back on your heels.
+2. Hinge at your hips to fold forward and rest your forehead on the floor.
+3. Extend your arms in front of you to support your neck or bring your arms alongside your body. You can use a pillow or cushion under your thighs or forehead for extra support.
+4. Breathe deeply in while holding the pose, bringing your awareness to any areas of discomfort or tightness in your back.
+5. Hold this pose for up to 5 minutes. You can also come into this pose between other stretches to give your body a rest.
 
-## 6. 坐姿前屈（Seated forward bend）
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_05.webp)  
+Photo via Active Body, Creative Mind
 
-这个拉伸有助于放松脊柱、肩部和腿后肌。它也拉伸了你的下背部。
+## 5\. Low lunge
 
-**执行此拉伸的方法：**
+This lunge stretches your hips, thighs, and groin. Opening your chest helps to relieve tension and pain in this area as well as your back and shoulders. Try to stay relaxed when doing this pose, and don’t push yourself too hard.
 
-1. 坐下，双腿向前伸展。
-2. 轻微收腹以伸长脊柱，把坐骨压入地面。
-3. 从髋部折叠向前，双臂向前伸展。
-4. 放松头部，低下下巴贴近胸部。
-5. 最多保持这个姿势5分钟。
+**To do this stretch:**
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Seated_Forward_Bend-1296x728-Body8.jpg?w=300)
+1. Come into a low lunge with your right foot below your right knee and your left leg extended back, keeping your knee on the floor.
+2. Bring your hands to the floor beneath your shoulders, on your knees, or up toward the ceiling.
+3. Breathe deeply, focusing on lengthening your spine and opening your chest.
+4. Feel the line of energy extending out through the crown of your head.
+5. Hold this pose for five breaths.
+6. Repeat on the opposite side.
 
-## 7. 壁坐（Legs-up-the-wall pose）
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_06.webp)  
+Photo via Active Body, Creative Mind
 
-这是一个恢复姿势，有助于减轻背部、肩部和颈部的紧张，同时促进放松。
+## 6\. Seated forward bend
 
-**执行此拉伸的方法：**
+This stretch helps to loosen up your spine, shoulders, and hamstrings. It also stretches your lower back.
 
-1. 身体右侧靠墙坐着。
-2. 仰卧，腿向上摆放在墙上。
-3. 髋部可以靠墙或者距离几英寸，选择最舒适的距离。你也可以在髋部下放个垫子以获得支持和一些高度。
-4. 双臂放在任何舒适的位置。
-5. 最多保持这个姿势10分钟。
+**To do this stretch:**
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Legs_Up_the_Wall_Pose-1296x728-Body9.jpg?w=300)
+1. Sit down with your legs extended in front of you.
+2. Engage your abdominal slightly to lengthen your spine, pressing your sit bones into the floor.
+3. Hinge at your hips to fold forward, reaching out your arms in front of you.
+4. Relax your head and tuck your chin into your chest.
+5. Hold this pose for up to 5 minutes.
 
-## 8. 躺卧束角式（Reclining bound angle pose）
+## 7\. Legs-up-the-wall pose
 
-这个放松的髋部打开者有助于缓解髋部和腹股沟的肌肉紧张，尤其适合大部分时间坐着的人。
+This is a restorative pose that helps to reduce tension in your back, shoulders, and neck while promoting relaxation.
 
-**执行此拉伸的方法：**
+**To do this stretch:**
 
-1. 坐在地上，将脚掌相对，脚跟靠近身体。
-2. 后仰，双手支撑身体，背部、脖子和头部靠在地面上。你可以在膝盖下或头部下放些垫子或枕头以获得支持。
-3. 双臂放在任何舒适的位置。
-4. 在深呼吸的同时，专注于放松髋部和大腿。
-5. 最多保持这个姿势10分钟。
+1. Sit with the right side of your body against a wall.
+2. Lie on your back as you swing your legs up against the wall.
+3. Your hips can be up against the wall or a few inches away. Choose the distance that feels most comfortable. You can also place a cushion under your hips for support and a bit of elevation.
+4. Rest your arms in any comfortable position.
+5. Remain in this pose for up to 10 minutes.
 
-![图片来源：Active Body, Creative Mind](https://i0.wp.com/post.healthline.com/wp-content/uploads/2018/10/8_Stretches_to_Do_At_Night_Before_Sleep_Reclining_Bound_Angle-1296x728-Body10.jpg?w=300)
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_07.webp)  
+Photo via Active Body, Creative Mind
 
-[GPT-4o mini]
+## 8\. Reclining bound angle pose
 
+This relaxing hip opener can help to relieve muscle tension in your hips and groin, making it especially good if you spend most of your day sitting.
+
+**To do this stretch:**
+
+1. Sit on the floor and bring the soles of your feet together.
+2. Lean back on your hands to bring your back, neck, and head to the floor. You can use cushions or pillows under your knees or head for support.
+3. Place your arms in any comfortable positions.
+4. Focus on relaxing your hips and thighs as you breathe deeply.
+5. Hold this pose for up to 10 minutes.
+
+![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_08.webp)  
+Photo via Active Body, Creative Mind
