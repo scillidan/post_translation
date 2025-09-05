@@ -2,7 +2,7 @@
 
 Have you ever wondered what happens in our brains when we create and innovate? Then you are in luck. Today, we’ll be exploring the science of creativity and innovation!
 
-By understanding how the brain functions when we are creative, you’ll be better placed to generate new ideas, solve complex problems and innovate. 
+By understanding how the brain functions when we are creative, you’ll be better placed to generate new ideas, solve complex problems and innovate.
 
 With this in mind, we’ll explore creativity and its history before diving into the fascinating realm of neuroscience. Are you ready to gain insights into the neuroscience of creativity and innovation? Then let’s go!
 
@@ -14,9 +14,9 @@ While creativity is a complex and multifaceted concept, it’s typically underst
 
 Creativity is a curious and nebulous creature. This makes it awfully [difficult to define](https://blogs.scientificamerican.com/beautiful-minds/the-neuroscience-of-creativity-a-q-a-with-anna-abraham/). Indeed, there is a surprising lack of consensus when it comes to its definition. The way we think about creativity can differ vastly from one individual to the next.
 
-When thinking about creativity, we often consider the realm of art, music or design. However, creativity is a fundamental human trait that can be applied to various fields. 
+When thinking about creativity, we often consider the realm of art, music or design. However, creativity is a fundamental human trait that can be applied to various fields.
 
-In fact, one of the biggest challenges is to have a definition that can be applied across all forms of creativity. This definition needs to hold true whether the ‘object’ is a work of art, scientific theory, strategy plan or something else. 
+In fact, one of the biggest challenges is to have a definition that can be applied across all forms of creativity. This definition needs to hold true whether the ‘object’ is a work of art, scientific theory, strategy plan or something else.
 
 Despite this, there are some key characteristics linked to creativity. These are typically linked to our ability to combine existing knowledge, skills and experiences to produce something new, original, and innovative:
 
@@ -31,13 +31,13 @@ Despite this, there are some key characteristics linked to creativity. These are
 
 The concept of creativity has evolved over time. Indeed, its perception and recognition have varied across different cultures and historical periods.
 
-Most ancient cultures [did not have a specific term](https://link.springer.com/book/10.1007/978-94-009-8805-7) or concept that directly corresponds to our modern understanding of creativity. However, it would be an oversimplification to say that they _completely_ lacked the notion.
+Most ancient cultures [did not have a specific term](https://link.springer.com/book/10.1007/978-94-009-8805-7) or concept that directly corresponds to our modern understanding of creativity. However, it would be an oversimplification to say that they *completely* lacked the notion.
 
 For example, ancient Greek didn’t have the verb ‘to create’ or the term ‘creator’, but they valued various forms of artistic expression. This included poetry, music, sculpture and theatre. These are activities that involve innovative use of materials, techniques and ideas.
 
 It wasn’t until the Renaissance, spanning roughly from the 14th to the 17th century, that creativity began to be [explicitly discussed and recognised](https://psycnet.apa.org/record/1998-08125-002). At this stage, creativity was thought to be wielded by ‘great men’ — those possessed with innate genius and artistic talent.
 
-We only started to consider creativity and imagination as key elements of human cognition in the Age of Enlightenment (starting from the late 17th century). Thinkers like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) and [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) helped to highlight the importance of imagination and creativity in forming ideas. 
+We only started to consider creativity and imagination as key elements of human cognition in the Age of Enlightenment (starting from the late 17th century). Thinkers like [Immanuel Kant](https://en.wikipedia.org/wiki/Immanuel_Kant) and [Jean-Jacques Rousseau](https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau) helped to highlight the importance of imagination and creativity in forming ideas.
 
 As a result, our understanding of creativity started to shift from purely artistic activities to scientific discoveries, philosophical insights and problem-solving.
 
@@ -45,7 +45,7 @@ As a result, our understanding of creativity started to shift from purely artist
 
 Have you ever heard that the right side of your brain is analytical, whereas the left side is your creative brain? We certainly have!
 
-However, [research into neuroscience](https://drsarahmckay.com/left-brain-right-brain-myth/) has debunked this myth. Afterall, the right-brain / left-brain distinction doesn’t offer us the full picture of how our brain implements creativity. 
+However, [research into neuroscience](https://drsarahmckay.com/left-brain-right-brain-myth/) has debunked this myth. Afterall, the right-brain / left-brain distinction doesn’t offer us the full picture of how our brain implements creativity.
 
 In fact, creativity doesn’t only involve a single brain region or a single side of the brain. Instead, creativity consists of many interacting cognitive processes, both conscious and unconscious, that work together. These processes include:
 
@@ -93,7 +93,7 @@ This large-scale network is composed of the dorsolateral prefrontal cortex and p
 
 The frontoparietal network is responsible for our cognitive control and attentional processes. As such, it’s heavily involved in operating our working memory.
 
-It plays a key role in overcoming cognitive constraints and inhibiting our habitual responses. This, in turn, allows us to think more flexibly and unconventionally. 
+It plays a key role in overcoming cognitive constraints and inhibiting our habitual responses. This, in turn, allows us to think more flexibly and unconventionally.
 
 ### 4\. Dopamine system
 
@@ -103,17 +103,17 @@ The dopamine system refers to a group of neurons in the brain that use the neuro
 
 The dopamine system covers various brain regions. These regions contain neurons that produce dopamine and then project the neurotransmitter to different parts of the brain. This forms neural pathways.
 
-Studies [have shown](https://www.researchgate.net/figure/Correlations-between-divergent-thinking-scores-and-dopamine-D2-binding-potential-A_fig2_44626860) that increased dopamine activity in certain brain regions is linked to creativity and divergent thinking. 
+Studies [have shown](https://www.researchgate.net/figure/Correlations-between-divergent-thinking-scores-and-dopamine-D2-binding-potential-A_fig2_44626860) that increased dopamine activity in certain brain regions is linked to creativity and divergent thinking.
 
 ### 5\. Neural Plasticity
 
 [Neural plasticity](https://www.growthengineering.co.uk/brain-plasticity/), sometimes called brain plasticity or neuroplasticity, refers to our brain’s ability to change and adapt. In fact, our brains change throughout our entire lives in response to internal and external stimuli, experiences and learning.
 
-Neural plasticity is highly relevant to creativity, as it provides the foundation for our brains to generate unique ideas, think flexibly and engage in problem-solving. 
+Neural plasticity is highly relevant to creativity, as it provides the foundation for our brains to generate unique ideas, think flexibly and engage in problem-solving.
 
 After all, neural plasticity allows the brain to form new synaptic connections and reorganise existing ones. This means that you can integrate information from different brain regions.
 
-The human brain is also able to reorganise its neural networks and modify its connections. This, in turn, creates the cognitive flexibility that is essential for adaptive and creative thinking. 
+The human brain is also able to reorganise its neural networks and modify its connections. This, in turn, creates the cognitive flexibility that is essential for adaptive and creative thinking.
 
 Ultimately, neuroplasticity means that your brain is capable of shifting perspectives and considering multiple solutions.
 
@@ -125,13 +125,13 @@ Creativity is an important part of human development. Let’s take a look at som
 
 Creativity is at the core of innovation and problem-solving. After all, it enables us to come up with new ideas and perspectives.
 
-This, in turn, helps you to drive innovation, such as technological advancements, scientific discoveries and artistic expressions. 
+This, in turn, helps you to drive innovation, such as technological advancements, scientific discoveries and artistic expressions.
 
 ### 2\. Adaptability
 
 The business world is ever-evolving and innovations keep popping up left, right and centre. That’s why your organisation needs to stay agile and flexible in order to compete.
 
-Creative employees can [think outside the box](https://www.growthengineering.co.uk/thinking-outside-the-box/), adapt to new circumstances and find innovative approaches. This helps them to navigate change and challenges more effectively. 
+Creative employees can [think outside the box](https://www.growthengineering.co.uk/thinking-outside-the-box/), adapt to new circumstances and find innovative approaches. This helps them to navigate change and challenges more effectively.
 
 As a result, you ensure your [intellectual capital](https://www.growthengineering.co.uk/intellectual-capital/) stays resilient and relevant.
 
@@ -143,9 +143,9 @@ Harnessing our creativity allows us to explore different passions, express emoti
 
 ### 4\. Communication
 
-Creativity is a powerful tool for communication and expression. After all, individuals can convey complex emotions, ideas and experiences better when they can think creatively. In addition, creativity can promote understanding and empathy. 
+Creativity is a powerful tool for communication and expression. After all, individuals can convey complex emotions, ideas and experiences better when they can think creatively. In addition, creativity can promote understanding and empathy.
 
-Creative communication engages through [storytelling](https://www.growthengineering.co.uk/narrative-in-online-learning/), nonverbal cues, metaphorical language, and active participation. This facilitates deeper connections. 
+Creative communication engages through [storytelling](https://www.growthengineering.co.uk/narrative-in-online-learning/), nonverbal cues, metaphorical language, and active participation. This facilitates deeper connections.
 
 This is essential in organisations to ensure effective cross-departmental collaboration and transparent communication.
 
@@ -153,7 +153,7 @@ This is essential in organisations to ensure effective cross-departmental collab
 
 Creativity stimulates critical thinking, curiosity and open-mindedness. It challenges assumptions and encourages individuals to explore and push boundaries. This helps them to question established norms and consider different perspectives.
 
-Critical thinking is business critical as it allows individuals and organisations to make more informed decisions, solve complex problems and adapt to rapidly changing workplace environments. 
+Critical thinking is business critical as it allows individuals and organisations to make more informed decisions, solve complex problems and adapt to rapidly changing workplace environments.
 
 ## Neuroscience and Innovation
 
@@ -167,11 +167,11 @@ By understanding the neuroscience of creativity, you can help your organisation 
 
 Divergent thinking, also called [lateral thinking](https://www.interaction-design.org/literature/topics/lateral-thinking), is our ability to generate multiple solutions to a single problem. As such, it’s often a non-restricted, non-linear and free-flowing chain of thoughts.
 
-You can encourage divergent thinking by creating an environment where your team feels comfortable expressing ideas without fear, criticism or rejection. 
+You can encourage divergent thinking by creating an environment where your team feels comfortable expressing ideas without fear, criticism or rejection.
 
 Hosting, for example, brainstorming sessions and open-ended problem-solving exercises will help you to promote divergent thinking.
 
-You should also promote neural plasticity by encouraging employees to learn new skills or engage in creative pursuits. 
+You should also promote neural plasticity by encouraging employees to learn new skills or engage in creative pursuits.
 
 ### 2\. Provide Opportunities for Incubation
 
@@ -211,37 +211,37 @@ In addition, create an innovation-friendly structure. This could include allocat
 
 Diversity in teams means diverse perspectives. You should focus on embracing diverse ideas, cultures and viewpoints that can lead to more creativity and better solutions.
 
-After all, your employees can bounce ideas off of each other and feed into their colleagues’ ideas and thoughts. As such, make sure your team consists of people from different backgrounds. 
+After all, your employees can bounce ideas off of each other and feed into their colleagues’ ideas and thoughts. As such, make sure your team consists of people from different backgrounds.
 
 ### 3\. Create a Continuous Learning Culture
 
-Your [learning and development](https://www.growthengineering.co.uk/12-reasons-learning-and-development-is-important/) (L&D) initiatives can help you to foster creativity and innovation across your organisation. With this in mind, you should strive to create a 
+Your [learning and development](https://www.growthengineering.co.uk/12-reasons-learning-and-development-is-important/) (L&D) initiatives can help you to foster creativity and innovation across your organisation. With this in mind, you should strive to create a
 
 [culture of continuous improvement](https://www.growthengineering.co.uk/what-is-learning-culture/).
 
-Provide opportunities for your employees to attend [workshops](https://www.growthengineering.co.uk/six-steps-for-hosting-a-winning-online-workshop/), conferences or training programmes where they can expand their knowledge and skills. 
+Provide opportunities for your employees to attend [workshops](https://www.growthengineering.co.uk/six-steps-for-hosting-a-winning-online-workshop/), conferences or training programmes where they can expand their knowledge and skills.
 
 By encouraging ongoing development, your employees can learn from case studies, relevant examples, creative campaigns, [scenarios](https://www.growthengineering.co.uk/a-beginners-guide-to-scenario-based-learning/) and more.
 
-However, make sure you leave time for reflection. Taking time away from the task at hand ensures your learners have the space they need for unconscious processing. 
+However, make sure you leave time for reflection. Taking time away from the task at hand ensures your learners have the space they need for unconscious processing.
 
 This is a big part of creativity. It allows your brain to process information unconsciously and make connections between concepts.
 
 ### 4\. Implement Social Learning
 
-As a part of your learning culture, you should provide opportunities for [social learning](https://www.growthengineering.co.uk/social-learning/). 
+As a part of your learning culture, you should provide opportunities for [social learning](https://www.growthengineering.co.uk/social-learning/).
 
 On top of exposing your employees to diverse perspectives, creativity often flourishes in collaborative environments.
 
 In fact, social learning enables collaborative problem-solving as learners get opportunities to work together and share ideas. They can then leverage their collective strengths and come up with innovative solutions to specific issues.
 
-What’s more, social learning exposes individuals to the achievements and success stories of others. This might well inspire them to push their own boundaries. 
+What’s more, social learning exposes individuals to the achievements and success stories of others. This might well inspire them to push their own boundaries.
 
 ### 5\. Promote Autonomy
 
-As we explored earlier, creativity is hard to prompt. While we can start participating in a creative activity, this isn’t necessarily ‘_being_’ creative.
+As we explored earlier, creativity is hard to prompt. While we can start participating in a creative activity, this isn’t necessarily *‘being’* creative.
 
-However, offering a flexible environment where employees have the freedom to explore and express themselves leaves room for creativity. 
+However, offering a flexible environment where employees have the freedom to explore and express themselves leaves room for creativity.
 
 Similarly, if they have autonomy to make decisions, individuals can take ownership of their projects. As a result, they are more likely to experiment and drive towards innovation through trial and error.
 
@@ -251,25 +251,25 @@ Many people think of creativity simply as participating in an art form. As a res
 
 You should incorporate feedback and constructive criticism as a part of your culture and L&D initiatives. Feedback from peers and mentors can help your learners to refine their ideas.
 
-As a result, employees can identify their strengths, weaknesses and any areas for improvement. Ultimately, this can enhance their creative output. 
+As a result, employees can identify their strengths, weaknesses and any areas for improvement. Ultimately, this can enhance their creative output.
 
 Feedback can also help your employees to think more critically and consider alternative perspectives. This helps them to review and refine their innovative solutions.
 
 ### 7\. Encourage Cross-Functional Collaboration
 
-Encouraging collaboration and cross-functional teamwork helps you to stimulate creativity. By implementing group projects or brainstorming sessions, you can bring together a diverse group of people. 
+Encouraging collaboration and cross-functional teamwork helps you to stimulate creativity. By implementing group projects or brainstorming sessions, you can bring together a diverse group of people.
 
-This, in turn, helps individuals to see their context from different perspectives. This can often lead to breakthroughs and new ways of thinking. 
+This, in turn, helps individuals to see their context from different perspectives. This can often lead to breakthroughs and new ways of thinking.
 
 ### 8\. Support Risk-Taking
 
-Most organisations shy away from encouraging their employees to take risks. After all, the end result may not be desirable. 
+Most organisations shy away from encouraging their employees to take risks. After all, the end result may not be desirable.
 
 However, creating an environment where employees feel safe to take risks and embrace failure is a great learning opportunity. This helps them to learn from their mistakes and use this previous experience to be more successful in the future.
 
 ### 9\. Provide Plenty of Resources
 
-Make sure to provide enough resources, materials and tools for your employees to enable creative exploration. Ensure there is a [central repository](https://www.growthengineering.co.uk/what-is-an-lms/) for your learning content. 
+Make sure to provide enough resources, materials and tools for your employees to enable creative exploration. Ensure there is a [central repository](https://www.growthengineering.co.uk/what-is-an-lms/) for your learning content.
 
 However, just providing resources is not enough. You need to encourage individuals to explore, experiment and engage with the resources. This will help to expand their creative thinking and enable them to find their unique voice.
 

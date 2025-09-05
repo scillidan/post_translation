@@ -1,399 +1,399 @@
 # [微波炉的历史](https://taylor.town/history-of-microwave-ovens)
 
-特殊感谢Cory在[Radarange.com](https://www.radarange.com/)上保存如此珍贵的历史！
+*特别感谢Cory在 [Radarange.com](https://www.radarange.com/) 保存了如此珍贵的历史！*
 
-可以随意跳过科学内容（尤其是开头部分），快速浏览图片。
+*随意跳过科学的部分（尤其是在开始时）并浏览图片。*
 
-人们开始认真考虑用[射频](https://en.wikipedia.org/wiki/Radio_frequency)波加热物体的时间是在约1940年。
+人们在大约1940年时开始认真考虑用[无线电](https://en.wikipedia.org/wiki/Radio_frequency)波加热东西。
 
-这正好是人们开始考虑用[原子核爆炸](https://en.wikipedia.org/wiki/History_of_nuclear_weapons)的同一时期。
+*这恰好是人们开始考虑用[原子核爆炸](https://en.wikipedia.org/wiki/History_of_nuclear_weapons)的同一时期。*
 
-一些分子（尤其是水）是微小的磁铁。波和磁铁以[神秘的方式](https://en.wikipedia.org/wiki/Electromagnetism)相互作用。某些射频波段的频率使分子旋转；旋转是角动量，是动能，是热。许多聪明人称这种现象为["介电加热"](https://en.wikipedia.org/wiki/Dielectric_heating)。
+一些分子（尤其是水）是小磁铁。波与磁铁以[神秘的方式](https://en.wikipedia.org/wiki/Electromagnetism)相互作用。某些无线电波频率会导致分子旋转；旋转是角速度，是动能，是热量。许多聪明的人称之为["介电加热"](https://en.wikipedia.org/wiki/Dielectric_heating)。
 
-许多酷炫的雷达技术（例如[腔体磁控管](https://en.wikipedia.org/wiki/Cavity_magnetron)）是在二战期间开发的。战后，一些军事技术被重新设想到商业/家庭使用。
+许多酷炫的雷达技术（例如[腔体磁控管](https://en.wikipedia.org/wiki/Cavity_magnetron)）是在二战期间研发的。战争结束后，一些军事技术被重新构想用于商业/家庭用途。
 
-![Raytheon model 1132](https://taylor.town/Raytheon%20model%201132.webp)
+![雷神模型1132](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_01.webp)
 
-**1947年：** Radarange 1132是第一款商业可用的微波炉。这台巨无霸提供1600W的输出[通过水冷永久磁铁磁控管](https://taylor.town/microwaves.pdf)——显然不是家用机器。
+**1947年：** Radarange 1132是第一款商业可用的微波炉。这个庞然大物通过水冷永久磁铁磁控管提供1600W的输出——显然不是家用机器。
 
-但雷神公司的基本思路很简单：把食物放在[法拉第笼](https://en.wikipedia.org/wiki/Faraday_cage)中，用2.4 GHz的射频波轰击它，以旋转水分子。
+但雷神的基本想法很简单：把食物放在[法拉第笼](https://en.wikipedia.org/wiki/Faraday_cage)中，并用2.4 GHz的无线电波爆炸水分子。
 
-是的，2.4 GHz显然是与Wi-Fi和蓝牙相同的频率……
+*是的，2.4 GHz正是Wi-Fi和蓝牙的频率……*
 
-[![Percy Spencer's 1948 patent for "food cooking"](https://taylor.town/US2540036-drawings-page-1.png)](https://patents.google.com/patent/US2540036A/en?q=(microwave+oven+door)&assignee=raytheon&before=priority:19600101)
+[![Percy Spencer的1948年“食品烹饪”专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_02.webp)](https://patents.google.com/patent/US2540036A/en?q=(microwave+oven+door)&assignee=raytheon&before=priority:19600101)
 
-当时，还不清楚介电加热是否适合食物。湿润的食物在高强度下烹饪，这令人意外地不直观。更糟糕的是，非均匀食物（即几乎所有食物）烹饪不均匀，这在烹饪艺术中通常是不可取的行为。
+当时尚不清楚介电加热是否适合食品。湿润的食物以更高的强度烹饪，这是令人惊讶的非直观。更糟糕的是，非均匀食物区域（即差不多所有东西）的烹饪不均匀，这在烹饪艺术中通常是不受欢迎的行为。
 
-雷神公司早期的一个发现是，在磁控管前放置一个“搅拌器”来散射微波使烹饪更加均匀。稍后会详细讨论。
+*雷神早期发现的一件事是，在磁控管前放置“搅拌器”以散射微波可以使烹饪更均匀。稍后将详细讨论。*
 
-通用电气公司秘密也在厨房中，尝试使用较低频率（约915 MHz）的类似技术。[由于科学，](https://en.wikipedia.org/wiki/Quantum_electrodynamics)较长波长能够穿透更深，但较短波长能够携带更多能量。具体来说，雷神公司的2450 MHz穿透大约1.5 cm，而GE的0.915 GHz则能穿透大约4 cm。
+通用电气也在厨房里进行秘密实验，以较低的频率（约915 MHz）实验类似技术。[由于科学](https://en.wikipedia.org/wiki/Quantum_electrodynamics)，较长的波长更深地穿透，而较短的波长携带更多能量。具体来说，雷神的2,450 MHz穿透约1.5厘米，而GE的0.915 GHz穿透约4厘米。
 
-“这并不完全正确，雷神公司实际上是希望使用稍高的频率（2.6，如果没记错的话），而FCC迫使他们调低频率（迫使他们召回试验微波炉），因为GE希望在1.2 GHz范围内使用晶体振荡器（克莱斯特龙），如果能降到2.4，他们就不必担心糟糕的克莱斯特龙谐波。” [via anotherhue](https://news.ycombinator.com/item?id=41847581)
+*“这并不完全准确，雷神当初是想要稍高的频率（2.6，如果我没记错的话），FCC要求他们降到2.4（迫使他们召回试验中的微波炉），因为GE想在1.2GHz范围使用晶体振荡器（脉冲调制器），如果能降到2.4则不需要担心糟糕的脉冲调制器的谐波。” [来自anotherhue](https://news.ycombinator.com/item?id=41847581)*
 
-> 因为FCC正在建立频率分配程序，所以雷神和GE都向FCC请求了微波炉频率，雷神偏好S波段或2450，而GE偏好L波段/UHF或915 MHz。雷神公司辩称，更高的频率允许更好的与小负载如热狗的耦合，而在特定腔内的模式数量更多可提供更好的随机化（均匀性）加热模式。GE则争论穿透和解冻时更少的热失控。最后的结果是FCC分配了两个频率，915+25 MHz和2450+50。
+> 由于FCC正在建立频率分配程序，雷神和GE都向FCC申请微波炉频率——雷神倾向于S波段或2450，GE则倾向于L波段/UHF或915 MHz。雷神辩称更高的频率使小负载（如香肠）更好地耦合，并且给定腔体中更大的模式数允许更好的随机化（均匀性）加热模式。GE则论证了专注于渗透和在解冻时减少热失控的优势。最终结果是FCC分配了两个频率：915+25 MHz和2450+50。
 > 
-> -- [微波加热应用的历史](https://taylor.town/microwaves.pdf)
+> -- [微波加热应用历史](https://taylor.town/microwaves.pdf)
 
-总之，结果证明2.4 GHz的设备易于制造并且对食物（即使是冷冻的）非常有效。如今，所有消费者微波炉都使用2.4 GHz，但许多行业仍使用915 MHz的微波炉用于特定的需求较长波长的应用。
+无论如何，事实证明，2.4GHz的设备制造便宜，并且对食品的加热效果很好（即使是冷冻的）。如今，所有消费级微波炉都使用2.4GHz，但许多工业仍使用915MHz的微波炉用于特定需求的应用。
 
-![Radarange 1161](https://taylor.town/Radarange%201161.png)
+![雷神模型1161](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_03.webp)
 
-**1954年：** Radarange 1161与前一型号相同为1600W，但现在完全是空气冷却的。
+**1954年：** 雷神模型1161与前一型号一样是1600W，但现在完全是风冷的。
 
-> 商业厨房中的空气通常是热的，油腻的，还经常充满了绒毛……因此，冷却空气在前面被吸入，那里空气最有可能是凉爽且不油腻的……并强制通过电气元件，并通过机箱后面的开口排出。
+> 商用厨房里的空气通常热、油腻，且经常充满绒毛。……因此，冷却空气是从前面吸入的，那里空气最有可能是凉爽和无油腻的……并强制通过电气组件并从橱柜的后部开口排出。
 > 
-> -- [流行机械，1955](https://www.rfcafe.com/references/popular-electronics/radarange-march-1955-popular-electronics.htm)
+> -- [《流行机械》1955年](https://www.rfcafe.com/references/popular-electronics/radarange-march-1955-popular-electronics.htm)
 
-商业厨房中的空气为什么“经常充满绒毛”？恶心。
+*为什么商业厨房的空气“经常充满绒毛”？真恶心。*
 
-![1958 Raytheon radiation seal patent](https://taylor.town/US2956143-drawings-page-2.png)
+![1958年雷神辐射密封专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_04.webp)
 
-微波炉非常适合烹饪肉类。在写这篇文章时，亲爱的读者，不幸的是，你[是肉做的](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)。因此，保持箱体内部的微波不泄漏，同时提供一个方便的门以便开门是至关重要的。
+微波炉可以很好地烹饪肉。在您阅读时，您可怜的读者，遗憾的是[由肉组成](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)。因此，确保微波留在箱子里，同时也能提供一个方便的门打开箱子，这一点至关重要。
 
-> 烹饪腔室类似于一个法拉第笼，以防止微波从炉内泄漏。尽管门边缘周围没有持续的金属接触，但门边缘的阻塞连接在微波频率下充当金属接触，以防止泄漏。
-> 
-> -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
-
-关于微波炉门密封的热烈讨论，请参考[这篇2015年的论坛帖子](https://www.edaboard.com/threads/microwave-oven-door-perimeter-seal.332934/)，已存档[在这里](https://taylor.town/microwave-oven-door-perimeter-seal.webarchive)。
-
-作为额外的保护层，打开微波炉门会切断磁控管的电源电路。这几乎可以保证微波保持在金属箱内，它们该待的地方。
-
-说到加热肉类——
-
-![REANIMATION OF RATS FROM BODY TEMPERATURES BETWEEN o AND i°C BY MICROWAVE DIATHERMY](https://taylor.town/reanimation-of-rats.png)
-
-**1954年：** [詹姆斯·洛夫洛克](https://en.wikipedia.org/wiki/James_Lovelock)等人使用临时微波炉重新活化[冷冻的](https://en.wikipedia.org/wiki/Cryogenics)仓鼠。
-
-我强烈推荐观看[汤姆·斯科特与詹姆斯·洛夫洛克的访谈](https://www.youtube.com/watch?v=2tdiKTSdE9Y)以获取更多细节。
-
-与此同时，奇怪的微波实验在[50年代持续进行](https://taylor.town/microwaves.pdf)：
-
-> 它们从经济上不可行的应用，如土壤消毒，到许多食物应用，如焯蘑菇，到专业用途，如加热冷冻马血清。
-
-好吧，对不起，回来谈谈微波炉。
-
-注意到在1954年，微波炉已经有了一个漂亮的窗口用以查看食物。
-
-> 烤箱门通常有一个窗口以便于观察，窗户上方与外面面板之间有一层导电网以保持屏蔽。由于网眼的尺寸远小于微波的波长（通常为2.45 GHz时是12.2 cm），微波辐射无法穿透门，而可见光（波长远小于微波）则可以。
+> 烹饪舱类似于法拉第笼，以防止波从微波炉中发出。尽管在门边缘并没有持续的金属接触，但门边缘的阻塞连接在微波频率下起到金属接触的作用，以防止泄漏。
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
 
-![Radarange 1170](https://taylor.town/radarange-mar-1955-popular-electronics-3.webp)
+*关于微波炉门密封的热烈讨论，我推荐给您[这篇2015年的论坛帖子](https://www.edaboard.com/threads/microwave-oven-door-perimeter-seal.332934/)，已归档在[这里](https://taylor.town/microwave-oven-door-perimeter-seal.webarchive)。*
 
-**1955年：** Radarange 1170是800W的空气冷却台面型号。
+作为额外的保护层，打开微波炉门会切断磁控管的电源电路。这几乎可以保证微波留在金属箱内，在那里它们才属于。
 
-![Radarange diagram](https://taylor.town/radarange-diagram.webp)
+说到加热肉——
 
-[![1957 Raytheon microwave oven patent](https://taylor.town/US2920174-drawings-page-1.png)](https://patents.google.com/patent/US2920174A/en)
+![用微波中热疗法复活体温在o到i°C之间的老鼠](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_05.webp)
 
-到1950年代中期，现代微波炉的主要组件已经确定：~2.4GHz的磁控管加上散射器，配合通风的金属箱与时尚的门。
+**1954年：** [詹姆斯·洛夫洛克](https://en.wikipedia.org/wiki/James_Lovelock)等人使用临时微波炉复活了[低温冷冻](https://en.wikipedia.org/wiki/Cryogenics)的仓鼠。
 
-[![Tappan RL-1](https://taylor.town/Tappan%20RL-1.webp)](https://www.si.edu/es/object/nmah_1088040)
+*我强烈建议观看[汤姆·斯科特与詹姆斯·洛夫洛克的采访](https://www.youtube.com/watch?v=2tdiKTSdE9Y)以获取更多详细信息。*
 
-我最喜欢的特点是那可爱的食谱抽屉。
+与此同时，奇怪的微波实验在五十年代[不断进行](https://taylor.town/microwaves.pdf)：
 
-**1955年：** 通过雷神公司的授权技术，Tappan RL-1成为市场上第一款消费者微波炉，当时售价为1295美元（约合今天的15000美元）。
+> 这些实验范围从经济上不可行的应用，如土壤灭菌，到许多食品应用，如焯水蘑菇，再到特殊工作，如加热冷冻的马血清。
 
-我找到了这款型号57年后[仍在使用的视频](https://www.youtube.com/watch?v=GjNVfGDopt8)（还有[有趣讨论](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREAD.cgi?56587_31)）。
+好吧，对不起，回到微波炉。
 
-但那些额外的旋钮是什么？
+请注意，1954年微波炉已经有了很酷的窗口，可以偷看您的食物。
 
-![more Tappan RL-1](https://taylor.town/more%20Tappan%20RL-1.webp)
+> 微波炉门通常有一个窗口，以便于观察，门外面与导电网之间有一层距离，以维护屏蔽。由于网内的孔的大小远小于微波的波长（通常2.45 GHz的12.2厘米），微波辐射无法通过门，而可见光（其波长更短）可以。
+> 
+> -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
 
-抵御诱惑——[千万不要把孩子放进微波炉](https://www.reddit.com/r/notinteresting/comments/1fw3qrn/my_microwave_asking_for_sacrifices/)。
+![雷神模型1170](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_06.webp)
 
-RL-1有一个“上色元件”，也就是“会变得非常热的东西”，也就是“烤架”，也就是[倒置的烤架](https://en.wikipedia.org/wiki/Grilling)。
+**1955年：** 雷神模型1170是一款800W的风冷台面型微波炉。
 
-你厨房里的对流烤箱可能有一个烤架；现在那是快速上色的最快方法。
+![雷神模型图](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_07.webp)
 
-正如直觉所示，微波炉很少会使食物上色/焦糖化。这是因为微波炉不能将水分子加热到产生[美拉德反应](https://en.wikipedia.org/wiki/Maillard_reaction)（以及其他化学反应）的温度。
+[![1957年雷神微波炉专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_08.webp)](https://patents.google.com/patent/US2920174A/en)
 
-有了上色，就是“烹饪”；如果没有上色，仅仅是“加热”。
+到1950年代中期，现代微波炉的主要组件已经建立：这是一个~2.4GHz的磁控管加上散射器，置于一个通风的金属箱中，配有一个华丽的门。
 
-但这仅仅是水——微波炉[使脂肪/油变得非常热](https://en.wikipedia.org/wiki/Microwave_oven)。含有足够脂肪的菜肴可以模拟某些油脂上色的方法。
+[![Tappan RL-1](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_09.webp)](https://www.si.edu/es/object/nmah_1088040)
 
-这就是为什么人造甜味剂和/或油腻食物可能会意外变得非常热并融化塑料炊具的原因。
+*我最喜欢的特点是那个可爱的食谱抽屉。*
 
-![Sharp R-10](https://taylor.town/R-10.webp)
+**1955年：** 在雷神的授权技术下，Tappan RL-1成为市场上第一款消费微波炉，售价[1295美元](https://spectrum.ieee.org/a-brief-history-of-the-microwave-oven)（约合今天的15000美元）。
+
+*我发现一段这款模型57年后的[工作视频](https://www.youtube.com/watch?v=GjNVfGDopt8)（加上[有趣的讨论](https://www.automaticwasher.org/cgi-bin/TD/TD-VIEWTHREAD.cgi?56587_31)）。*
+
+但为什么有那么多额外的旋钮？
+
+![更多Tappan RL-1](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_10.webp)
+
+*抵御诱惑——[永远不要把孩子放进微波炉里](https://www.reddit.com/r/notinteresting/comments/1fw3qrn/my_microwave_asking_for_sacrifices/)。*
+
+RL-1有一个“上色元件”，也就是“变得非常热的东西”，也就是“烤箱”，也就是[倒置烤架](https://en.wikipedia.org/wiki/Grilling)。
+
+*您厨房里的对流烤箱可能有一个烤架，如今这是上色的最快通道。*
+
+如直觉所示，微波炉很少能给食物上色/焦糖化。这是因为微波炉不会激发水分子热到足以产生[梅拉德反应](https://en.wikipedia.org/wiki/Maillard_reaction)（和其他化学反应）。
+
+*有了上色就是“烹饪”，没有上色只是“加热”。*
+
+但这只是水——微波[使脂肪/油变得非常热](https://en.wikipedia.org/wiki/Microwave_oven)。含有足够脂肪的菜肴可以模拟某些油性上色方法。
+
+*这就是为什么甜味剂和/或脂肪食品可能会变得意外热并融化塑料厨具。*
+
+![夏普R-10](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_11.webp)
 
 **1962年：** 夏普大规模生产R-10，这是他们的第一款主要微波炉。
 
-![Sharp R-600](https://taylor.town/Sharp%20R-600.webp)
+![夏普R-600](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_12.webp)
 
-**1966年：** 以仅¥200K的价格（约合今天的6000美元），Sharp R-600是第一款带有旋转盘的微波炉，可以更均匀地加热食物。
+**1966年：** [仅以¥200K](https://spectrum.ieee.org/microwave-oven)（今天约6000美元），夏普R-600是首款具有旋转盘的微波炉，以更均匀地加热食物。
 
-不幸的是，我没找到旋转盘的图像。你得用你的想象力。
+*不幸的是，我没有找到旋转盘的图片。你得用想象力。*
 
-直到今天，那旋转盘依然是个热门话题。幸运的是，你可以用[热纸](https://www.youtube.com/watch?v=7FhwTelc5Tg)和/或[吐司](https://www.cnet.com/home/kitchen-and-household/appliance-science-experiments-mapping-your-microwave-hot-spots/)来比较微波炉的旋转/搅拌策略：
+时至今日，旋转盘仍然是一个热门话题。幸运的是，您可以通过[热敏纸](https://www.youtube.com/watch?v=7FhwTelc5Tg)和/或[吐司](https://www.cnet.com/home/kitchen-and-household/appliance-science-experiments-mapping-your-microwave-hot-spots/)来比较微波炉的旋转/搅拌策略：
 
-> 微波炉中的“死点”和“热点”位置可以通过在炉内放置一块潮湿的热纸来绘制：当饱和水分的纸张受到微波辐射影响时，纸会变热足以使染料变黑，这可以提供微波的可视化效果。如果在炉内构建多层纸张，并保持适当的距离，可以创建三维图。许多商店的收据是打印在热纸上的，这使得在家中轻松实现这一点。
+> 您可以通过将一块湿润的热敏纸放在微波炉中，绘制出微波炉的死点和热点的位置：当饱水的纸受到微波辐射时，它会变热到足以使染料变暗，从而提供对微波的可视表示。如果在足够的距离之间在微波炉中构建多个纸张层，则可以创建三维地图。许多商店收据是在热敏纸上打印的，这使得在家中轻松实现这一点。
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
 
-**1965年：** 雷神收购阿曼纳制冷，制造美国市场的消费者微波炉。在新炉中，雷神[为使用便宜的磁控管进行了原型实验](https://taylor.town/microwaves.pdf)。
+**1965年：** 雷神收购阿曼纳制冷设备公司，制造面向美国市场的消费微波炉。在新微波炉的帮助下，雷神[原型出一种便宜的磁控管](https://taylor.town/microwaves.pdf)。
 
-[![Amana RR-1](https://taylor.town/Amana%20RR-1.jpg.webp)](https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/)
+[![阿曼纳RR-1](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_13.webp)](https://www.smithsonianmag.com/innovation/hot-food-fast-home-microwave-oven-turns-50-180962545/)
 
-**1967年：** [售价495美元](https://spectrum.ieee.org/a-brief-history-of-the-microwave-oven)（约4500美元调整后），阿曼纳RR-1取得了巨大的成功。
+**1967年：** [售价495美元](https://spectrum.ieee.org/a-brief-history-of-the-microwave-oven)（约合今天的4500美元），阿曼纳RR-1获得巨大的成功。
 
-[![Amana RR-1 panel](https://taylor.town/Amana%20RR-1%20panel.webp)](https://www.radarange.com/)
+[![阿曼纳RR-1面板](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_14.webp)](https://www.radarange.com/)
 
-惊喜！上面的旋钮增加25分钟；下面的旋钮增加5分钟——绝对没有“+30秒”按钮。
+*惊喜！上面的旋钮增加25分钟的增量；底部的旋钮增加5分钟的增量——绝对没有“+30秒”按钮。*
 
-人们已经不再习惯[30分钟的食谱](https://www.reddit.com/r/shittyfoodporn/comments/18iow73/microwave_on_high_for_3033_minutes/)了，也不再习惯[相关的控制](https://www.reddit.com/r/CasualUK/comments/17vefuk/why_does_the_microwave_go_up_to_35_minutes_has/)。
+*人们不再习惯于[30分钟食谱](https://www.reddit.com/r/shittyfoodporn/comments/18iow73/microwave_on_high_for_3033_minutes/)或[相关控制](https://www.reddit.com/r/CasualUK/comments/17vefuk/why_does_the_microwave_go_up_to_35_minutes_has/)。*
 
-[![Jennifer Lawrence blows up a "science oven" in American Hustle (2017)](https://taylor.town/american-hustle.webp)](https://www.youtube.com/watch?v=NkzQYtbt_MU)
+[![詹妮弗·劳伦斯在《美国骗局》中炸毁“科学烤箱”（2017）](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_15.webp)](https://www.youtube.com/watch?v=NkzQYtbt_MU)
 
-詹妮弗·劳伦斯在《美国骗局》(2017)中爆炸了一台新的“科学烤箱”。
+*詹妮弗·劳伦斯在《美国骗局》中炸毁了一台新的“科学烤箱”（2017）。*
 
-可以想象，烤箱的使用引发了许多事故。“你不能把金属放进微波炉”已经成为一种梗，然而在当时显得非常不直观（而且仍然容易忘记）。
+正如您可以想象，这款微波炉的采用导致了许多事故。尽管“你不能把金属放进微波炉”现在已成为一种流行语，但在当时却很不直观（而且容易忘记）。
 
-[是的，这也是一个互联网梗。](https://taylor.town/microwaving-the-knife.webp)
+*[是的，它也是一个互联网迷因。](https://taylor.town/microwaving-the-knife.webp)*
 
-实际上，你可以把金属放进微波炉[但不应该这样做](https://en.wikipedia.org/wiki/Microwave_oven)：
+实际上，[你可以把金属放进微波炉里](https://en.wikipedia.org/wiki/Microwave_oven)，但你不应该这样做：
 
-> 微波炉中加热单个光滑的金属物体没有尖端，例如勺子或浅金属盘，通常不会产生火花。厚金属丝架可以是微波炉内部设计的一部分[(见插图)](https://en.wikipedia.org/wiki/File:Microwave_metal_shelf.webp)。
+> 在微波炉中微波加热单个光滑的金属物体而没有尖端，例如勺子或浅金属锅，通常不会产生火花。厚金属架子可以是微波炉内部设计的一部分 [(见插图)](https://en.wikipedia.org/wiki/File:Microwave_metal_shelf.webp)。
 
-除了成为火灾隐患，许多人还担心微波炉会泄漏有害辐射。
+除了火灾隐患，许多人害怕微波炉会泄漏有害辐射。
 
-**1968年：** 国会通过了[辐射控制与健康安全法案](https://en.wikipedia.org/wiki/Radiation_Control_for_Health_and_Safety_Act_of_1968)。
+**1968年：** 国会通过了[辐射控制健康与安全法](https://en.wikipedia.org/wiki/Radiation_Control_for_Health_and_Safety_Act_of_1968)。
 
-我不想赘述[无聊的细节](https://taylor.town/microwaves.pdf)——微波炉受到了严格限制，[旧型号的10%-30%](https://taylor.town/microwaves.pdf)必须进行改造以符合新法律。这损害了公众对微波炉及其制造商的看法。
+我就不赘述[乏味的细节](https://taylor.town/microwaves.pdf)了——微波炉被施加了严格的限制，且[10%-30%的旧型号](https://taylor.town/microwaves.pdf)必须进行改装以符合新法。这对公众对微波炉及其制造商的看法造成了不良影响。
 
-[![Space Age Microwave Oven from 1968](https://taylor.town/space-microwave.webp)](https://www.reddit.com/r/RetroFuturism/comments/xzjrzt/space_age_microwave_oven_from_1968/)
+[![1968年的太空时代微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_16.webp)](https://www.reddit.com/r/RetroFuturism/comments/xzjrzt/space_age_microwave_oven_from_1968/)
 
-**1968年**，Husqvarna制造了[Cupol](https://www.youtube.com/watch?v=DZLMiUEVKNM)烤箱。
+**1968年** Husqvarna制造了[Cupol](https://www.youtube.com/watch?v=DZLMiUEVKNM)烤箱。
 
-[![Crisp Bacon in 90 Seconds](https://taylor.town/bacon.webp)](https://reddit.com/r/funny/comments/co9p2p/crisp_bacon_in_90_seconds/)
+![90秒烤脆培根](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_17.webp)
 
-**1969年：** 尽管公众恐慌，微波广告开始大量出现。
+**1969年：** 尽管公众恐慌，微波广告开始兴起。
 
-![生产数字与过去和预计的烹饪磁控管用户单位成本](https://taylor.town/microwave-cost-vs-production.png)
+![过去和预测的烹饪磁控管生产数量和用户单位成本](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_18.webp)
 
-![美国国内（消费者）微波炉的年销售量](https://taylor.town/microwave-oven-sales.png)
+![美国家庭（消费）微波炉的年度销售量](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_19.webp)
 
-> 尽管在今天并不常见，许多主要电器制造商通过1970年代一直提供结合微波炉-炉灶的产品，作为技术的自然进步。 Tappan和通用电气提供的单位看起来像是普通的炉灶，但在传统的烤箱腔内包含了微波能力。这样的炉具吸引消费者，因为能同时利用微波和传统加热元件加速烹饪，而且没有占用台面空间。该提议对制造商也有吸引力，因为相比于台面设备，这种额外组成部分的成本可以更好地吸收，因为之后的定价愈发受到市场影响。
+> 虽然这在今天不常见，但在1970年代，主要家电制造商提供了组合微波-炉具，作为技术自然演变的一部分。Tappan和通用电气都提供看似传统炉灶/烤箱的设备，但在传统烤箱腔中包括微波能力。这种炉具对消费者具有吸引力，因为可以同时使用微波能和常规加热元件以加快烹饪，而且不会占用台面空间。对于制造商来说，这一提案也很有吸引力，因为与越来越敏感的市场定价相比，增加的组件成本可以更好吸收。
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven#Residential_use)
 
-![more Amana RR-4D](https://taylor.town/more%20Amana%20RR-4D.webp)
+![更多阿曼纳RR-4D](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_20.webp)
 
-**1974年：** Amana RR-4D是第一款带有“自动解冻”模式的微波炉，可每隔几秒开启/关闭磁控管。
+**1974年：** 阿曼纳RR-4D是第一款具有“自动解冻”模式的微波炉，该模式每几秒钟开启/关闭磁控管。
 
-因为[固态水分子](https://en.wikipedia.org/wiki/Ice)对这种频率的介电加热几乎免疫，所以更好地使用较低的功率进行更长时间的加热。这使得激发的水分子缓慢/均匀地融化邻近的冰，最终慢慢煮熟整顿。
+因为[固态水分子](https://en.wikipedia.org/wiki/Ice)在该频率下几乎对介电加热免疫，最好使用较低功率更长时间。这会导致被激发的水慢慢/均匀解冻相邻的冰，并最终慢慢烹饪整个餐食。
 
-但为什么磁控管要开/关以实现“低功率”？这完全是关于光子的：
+但为什么磁控管要开/关以达到“低功率”？这一切都与光子有关：
 
-- 每个人分享同一空域。政府机构（例如FCC）强迫制造商采用合作策略，以最小化光子污染。
-- 微波炉制造商仅被允许使用特定的光子功率水平（如2450 MHz）。
-- 功率是“每秒能量”。为了使用那些分配的光子制造较低功率的“解冻”模式，工程师只需每秒发送更少的光子即可。
-- 从历史上看，调整每秒光子的最便宜/最简单的方法是以不同的间隔开/关磁控管。直到引入_逆变器_之前这种情况仍然成立——但稍后再说。
+- 每个人都共享同一空气空间。政府机构（如FCC）迫使制造商采取合作策略，以最小化光子污染。
+- 微波炉制造商只能使用特定的光子功率水平（例如2450MHz）。
+- 功率是“每秒能量”。要用那些指定的光子创建较低功率的“解冻”模式，工程师只需每秒发送更少的光子。
+- 历史上，调节光子每秒数量最廉价、最简单的方法是按不同的间隔开关磁控管。直到引入_逆变器_，这一点依然如此——但稍后再讲。
 
-![Amana RR-6](https://taylor.town/Amana%20RR-6.webp)
+![阿曼纳RR-6](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_21.webp)
 
-**1975年：** Amana RR-6是第一款带有数字界面的微波炉。
+**1975年：** 阿曼纳RR-6是第一款带有数字界面的微波炉。
 
-![CorningWare microwave dish](https://taylor.town/corning-browning.jpeg)
+![康宁微波碗](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_22.webp)
 
-**1977年：** 微波炉的流行催生了对专用工具和方法的二级市场。
+**1977年：** 微波炉的流行催生了专用工具和方法的第二市场。
 
-> 由康宁玻璃制品公司为Amana制造，他们的表面涂有氧化锡。这些器皿需要在Radarange中先空烤预热。涂层会吸收微波，使表面变热并变黄。把食物放在这些表面上会在1到2分钟内上色，然后你再翻过来为另一面上色。当然，你可以在炉子上的平底锅中达到同样的效果，但你得佩服这里的巧思。
+> 由康宁玻璃制造有限公司为阿曼纳制造，他们的上色表面涂有氧化锡。这些碗必须在Radarange中空着预热。涂层会吸收微波，使表面变得炽热并变为黄色。食物压在这些表面上将在1到2分钟内变得上色，然后您可以翻转它以给另一面上色。当然，您可以在炉子上的煎锅中达到相同的效果，但您必须钦佩其背后的独创性。
 > 
-> 所有炊具手册中都包括食谱。我喜欢尝试旧食谱中的食谱，但其中一些似乎有些夸张。你真的会使用你的Amana Radarange爆米花机来制作爆米花，然后把它磨碎加入肉饼中，再在你的Amana Radarange中烹饪吗？
+> 所有炊具手册中都包含食谱。我喜欢尝试旧食谱中的食谱，但其中一些似乎有点牵强。你真的会使用你的阿曼纳Radarange爆米花锅来制作爆米花，然后将其磨成粉加入肉饼，再在阿曼纳Radarange中烹饪吗？
 > 
 > -- [总是打破蛋黄](https://spectrum.ieee.org/microwave-oven)
 
-![Amana RR-7B](https://taylor.town/Amana%20RR-7B.webp)
+![阿曼纳RR-7B](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_23.webp)
 
-![Amana RR-7D](https://taylor.town/Amana%20RR-7D.webp)
+![阿曼纳RR-7D](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_24.webp)
 
-**1979年：** Amana RR-7系列用一个时间旋钮和一个功率旋钮取代了25/5的拨号。功率旋钮在10%和100%之间调整磁控管的[占空比](https://en.wikipedia.org/wiki/Duty_cycle)。
+**1979年：** 阿曼纳RR-7系列将25/5旋钮替换为一个时间旋钮和一个功率旋钮。功率旋钮调整磁控管[占空比](https://en.wikipedia.org/wiki/Duty_cycle)在10%和100%之间。
 
-[![Amana Candymaker Probe](https://taylor.town/candymaker-probe.webp)](https://www.ebay.com/itm/144723126657)
+[![阿曼纳糖果制造商探头](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_25.webp)](https://www.ebay.com/itm/144723126657)
 
-**1978年：** 阿曼娜为其RR-8型号配备温度探头。
+**1978年：** 阿曼纳为其RR-8型号配备温度探头。
 
-[![Amana RR-8](https://taylor.town/Amana%20RR-8.webp)](https://thefuzzyfelt.com/products/1978-radarange-cookmatic-microwave-by-amana-vintage-retro-and-like-new-made-in-usa)
+[![阿曼纳RR-8](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_26.webp)](https://thefuzzyfelt.com/products/1978-radarange-cookmatic-microwave-by-amana-vintage-retro-and-like-new-made-in-usa)
 
-**1978年：** 当将探头插入时，RR-8会在达到设定的温度阈值后进行烹饪，然后保持温暖。
+**1978年：** 当探头插入时，RR-8在达到设定的温度阈值后进行烹饪，然后保持温暖。
 
-[![Microwave oven employing a gas sensor (Sharp)](https://taylor.town/US4319110-drawings-page-2.png)](https://patents.google.com/patent/US4319110A/en)
+[![采用气体传感器的微波炉（夏普）](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_27.webp)](https://patents.google.com/patent/US4319110A/en)
 
-**1979年：** 夏普申请了带有探头传感器的微波炉专利。
+**1979年：** 夏普获得了一种无探头的传感器加热微波炉专利。
 
-[![Sharp Carousel](https://taylor.town/Sharp%20Carousel.webp)](https://www.ebay.com/itm/134078893833)
+[![夏普转盘](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_28.webp)](https://www.ebay.com/itm/134078893833)
 
-**1981年：** 夏普推出了一款高端对流/微波炉，配有旋转盘。
+**1981年：** 夏普推出了一款豪华的对流/微波炉，配有旋转盘。
 
-> 一种常规微波炉的变体是对流微波炉。对流微波炉结合了标准微波炉和对流烤箱。它可以快速烹饪食物，同时呈现出像对流烤箱一样的上色或酥脆。对流微波炉的价格通常高于常规微波炉。一些对流微波炉——那些带有外露加热元件的——在食物溅出后可能会产生烟雾和烧焦的气味，一些炉具使用高速空气；这些被称为冲击烤箱，旨在在餐厅快速烹饪食物，但成本较高并且消耗更多电力。
+> 常规微波炉的一种变体是对流微波炉。对流微波炉是标准微波炉和对流炉的结合。它允许食物快速烹饪，同时又能像对流炉一样出色地变得上色或脆化。对流微波炉比普通微波炉更昂贵。有些对流微波炉（那些带有暴露加热元件的）在食物从早期的微波只使用中溅出的食物被烤焦时，会产生烟雾和燃烧的气味。有些烤箱使用高速空气；这些被称为冲击炉，设计用于快速烹饪，但价格更高，消耗的电力也更多。
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven)
 
-![Litton Auto-Cook ad](https://taylor.town/litton-auto-cook.webp)
+![利顿自动烹饪广告](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_29.webp)
 
-**1983年：** Litton推出基于重量的自动烹饪。
+**1983年：** 利顿推出基于重量的自动烹饪。
 
-那微波炉真大！
+*那款微波炉好大！*
 
-[![‘Cheater!’ 'Hey, gaming on wifi? You have only yourself to blame.'](https://taylor.town/nachos.png)](https://xkcd.com/654/)
+[!['骗子！' '嘿，玩WiFi？你只能怪自己。'](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_30.webp)](https://xkcd.com/654/)
 
-**1985年：** FCC将[ISM频段](https://en.wikipedia.org/wiki/ISM_radio_band)开放给低功率通信。
+**1985年：** FCC开放[ISM频段](https://en.wikipedia.org/wiki/ISM_radio_band)供低功率通信使用。
 
-长话短说：这就是微波炉为什么干扰到你的Wi-Fi信号的原因。[在家试试吧！](https://www.reddit.com/r/dataisbeautiful/comments/8xu89b/why_my_microwave_makes_me_lose_wifi_connection/)
+*长话短说：这就是微波为何会干扰你的Wi-Fi信号的原因。[在家试试！](https://www.reddit.com/r/dataisbeautiful/comments/8xu89b/why_my_microwave_makes_me_lose_wifi_connection/)*
 
-[![Sharp RE-2](https://taylor.town/capsule_microwave_01_1200x675.webp)](https://design.sharp.co.jp/eng/design_column/a08_1987microwave-re2)
+[![夏普RE-2](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_31.webp)](https://design.sharp.co.jp/eng/design_column/a08_1987microwave-re2)
 
 **1987年：** 夏普推出RE-2胶囊微波炉。
 
-[![Litton popcorn patent](https://taylor.town/US4870238-drawings-page-14.png)](https://patents.google.com/patent/US4870238A/en?q=TI%3d(microwave)&q=(popcorn)&q=(-package)&before=priority:19950101&page=1)
+[![利顿爆米花专利](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_32.webp)](https://patents.google.com/patent/US4870238A/en?q=TI%3d(microwave)&q=(popcorn)&q=(-package)&before=priority:19950101&page=1)
 
-**1988年：** Litton申请了爆米花模式的专利。
+**1988年：** 利顿获得爆米花模式专利。
 
-![GoldStar One-Touch](https://taylor.town/goldstar-1991.webp)
+![GoldStar一键微波按钮](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_33.webp)
 
-**1991年：** GoldStar One-Touch微波炉按钮发货，按键配置用于特定食品：爆米花、比萨、蔬菜、冷冻晚餐、烤土豆、食品盘。
+**1991年：** GoldStar一键微波按钮配备了特定食品的按钮：爆米花、披萨、蔬菜、冷冻晚餐、烤土豆、食品盘。
 
-[![Sharp Carousel Multiple Choice](https://taylor.town/sharp-1997.webp)](https://www.youtube.com/watch?v=UiS27feX8o0)
+[![夏普转盘多选](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_34.webp)](https://www.youtube.com/watch?v=UiS27feX8o0)
 
-**1997年：** 微波炉“达到巅峰”。
+**1997年：** 微波炉达到了“巅峰”。
 
-![GE Advantium](https://taylor.town/advantium.png)
+![GE Advantium](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_35.webp)
 
-**1999年：** GE Advantium使用石英卤素灯泡炙烤食物。
+**1999年：** GE Advantium使用石英卤素灯来用红外线给食物上色。
 
-我强烈推荐[这位业余厨师的精彩Advantium评论](https://consciouskitchenremodel.blogspot.com/2009/10/advantium-first-review.html)。还有一些出版物，如[《食品工程学杂志》](https://www.sciencedirect.com/science/article/abs/pii/S0260877404005242)的优秀烹饪实验：
+我强烈推荐[这篇优秀的Advantium评论来自一位业余厨师](https://consciouskitchenremodel.blogspot.com/2009/10/advantium-first-review.html)。还有一些出版物如[《食品工程杂志》](https://www.sciencedirect.com/science/article/abs/pii/S0260877404005242)的伟大烹饪实验：
 
-> 在这项研究中，比较了不同烘焙方法的影响；微波、红外和红外-微波组合。仅用微波烘烤的蛋糕存在一些质量缺陷，如缺乏颜色、高重量损失、非常坚硬的质感和低体积。仅用红外加热不建议烘烤蛋糕，因为该产品的外壳非常厚，而且烘烤时间不会少于红外-微波的组合烘烤。
+> 在这项研究中，比较了不同烘焙方法的效果；微波、红外和红外-微波组合。仅用微波烘焙的蛋糕存在一些质量缺陷，如缺乏颜色、高重量损失、纹理非常坚硬且体积小。仅用红外加热也不值得推荐，因为产品的外壳非常厚，而且烘焙时间不小于红外-微波组合烘焙。
 
-[![KCF Mode](https://taylor.town/fyhc5x0ge2921.webp)](https://www.reddit.com/r/mildlyinteresting/comments/adm597/this_microwave_has_a_kosher_consumer_friendly_mode/)
+[![KCF模式](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_36.webp)](https://www.reddit.com/r/mildlyinteresting/comments/adm597/this_microwave_has_a_kosher_consumer_friendly_mode/)
 
-**2001年：** 惠而浦推出[STAR-K](https://www.star-k.org/articles/kashrus-kurrents/483/the-sabbath-mode/)家电，带有[Sabbath模式](https://en.wikipedia.org/wiki/Sabbath_mode)。
+**2001年：** 惠而浦推出带有[安息日模式](https://en.wikipedia.org/wiki/Sabbath_mode)的[STAR-K](https://www.star-k.org/articles/kashrus-kurrents/483/the-sabbath-mode/)电器。
 
-如果你想了解历史背景，可以查看1990年的[这篇期刊文章](https://taylor.town/microwave-sabbath-1990.pdf)和2012年的[这篇论文](https://taylor.town/limited-electronics-spitz.pdf)。
+*如果您渴望历史背景，请查看这篇[1990年的期刊文章](https://taylor.town/microwave-sabbath-1990.pdf)和[2012年的论文](https://taylor.town/limited-electronics-spitz.pdf)。*
 
-[![Chaos defrost](https://taylor.town/chaos-defrost.webp)](https://www.reddit.com/r/funny/comments/5tgccy/my_microwave_has_a_chaos_mode_and_ive_never/)
+[![混沌解冻](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_37.webp)](https://www.reddit.com/r/funny/comments/5tgccy/my_microwave_has_a_chaos_mode_and_ive_never/)
 
-**2003年：** 制造商声称“混沌解冻”能以不规则的占空比更均匀地加热食物。
+**2003年：** 制造商声称“混沌解冻”以不规则的占用周期让食物加热更均匀。
 
-![Panasonic Inverter](https://taylor.town/panasonic-inverter.webp)
+![松下逆变器](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_38.webp)
 
-**2009年：** 松下的逆变器技术使微波炉世界发生了翻天覆地的变化！对磁控管电源的改进使烤箱能够以更低的功率水平（即解冻）更一致地加热食物。
+**2009年：** 松下的逆变器技术让微波炉的世界_颠倒过来_！对磁控管电源的改进使得微波炉能够以较低的功率水平（即解冻）更一致地加热食物。
 
-> 逆变器意味着它使用固态开关电源来控制磁控管，而不是旧的钢心变压器和继电器。旧的微波炉只能以较慢（10秒钟左右）的可变占空比（开/关时间比率）开关全功率，而逆变器可以以更小的梯度变化输出功率，这对有薄表皮的食物或约束区域（如鸡蛋）影响更小。结果是较少的爆破、破裂、飞溅和溅射，更少的热点。
+> 逆变器意味着它使用固态开关电源控制磁控管，而不是旧的钢芯变压器和继电器。旧款微波只能以较慢（10秒的）可变占空比（开/关时间比率）切换完全功率，而逆变器可以以更小的梯度变化输出功率，这对薄皮或受限区域（比如鸡蛋）食物的损害较小。最终结果是减少了爆裂、迸溅和溅洒，减少了热点。
 > 
 > -- [humbummer](https://www.reddit.com/r/IsItBullshit/comments/xoonjx/isitbullshit_microwave_inverter_technology/iq0rmq5/)
 
-逆变器的一个缺点是它们会在附近的Wi-Fi网络中造成严重干扰：
+逆变器的一个缺点是，它们会彻底干扰附近的Wi-Fi网络：
 
-> 常规的变压器炉不在主电路上持续工作，但在炉子周围的许多米范围内都会造成显著的放慢，而逆变器炉在运行时可以完全切断附近的网络。
+> 常规变压器炉并不是在电网周期内连续工作，但在工作时可以在数米范围内造成显著的慢速，而基于逆变器的炉子在工作时可以完全停止附近的网络。
 > 
 > -- [维基百科](https://en.wikipedia.org/wiki/Microwave_oven#Interference)
 
-![Method for detecting the status of popcorn in a microwave, Fig. 3](https://taylor.town/US20160205973A1-20160721-D00003.png)
+![检测微波炉中爆米花状态的方法，图3](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_39.webp)
 
-![Method for detecting the status of popcorn in a microwave, Fig. 7](https://taylor.town/US20160205973A1-20160721-D00007.png)
+![检测微波炉中爆米花状态的方法，图7](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_40.webp)
 
-**2014年：** 惠而浦的[基于声音的爆米花烹饪专利](https://patents.google.com/patent/US20160205973A1/en)在[WMH76719CS](https://www.ajmadison.com/cgi-bin/ajmadison/WMH73521CW.html?srsltid=AfmBOoocPpsUnA7bW6Zm3_MlriHr6NbG3_8vYokaM28RKBnzYzKsI3PZ)中上市。
+**2014年：** 惠而浦的[基于声波的爆米花烹饪专利](https://patents.google.com/patent/US20160205973A1/en)在[WMH76719CS](https://www.ajmadison.com/cgi-bin/ajmadison/WMH73521CW.html?srsltid=AfmBOoocPpsUnA7bW6Zm3_MlriHr6NbG3_8vYokaM28RKBnzYzKsI3PZ)上市。
 
-![Breville Quicktouch](https://taylor.town/Breville-Microwave.webp)
+![Breville Quicktouch](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_41.webp)
 
-**2015年：** Breville制造了一款优雅的微波炉，功能更强。
+**2015年：** Breville制造了一台外形优美的微波炉，功能更加。
 
-![Mark Rober's heat map microwave oven](https://taylor.town/heatmap-microwave.webp)
+![马克·罗伯的热图微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_42.webp)
 
-**2015年：** 马克·罗伯（Mark Rober）制作了一款带有热图屏幕的微波炉[视频链接](https://www.youtube.com/watch?v=ptkzzNaZb7U)。
+**2015年：** 马克·罗伯打造了一款[带有热图屏幕的微波炉](https://www.youtube.com/watch?v=ptkzzNaZb7U)。
 
-![Wayv camping microwave](https://taylor.town/wayv.webp)
+![Wayv露营微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_43.webp)
 
-![NXP concept oven](https://taylor.town/Freescale_RF_Sage_open_HR.webp)
+![NXP概念炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_44.webp)
 
-**2015年：** [固态射频技术的进步](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7173133)带来了新一波流线型概念烤箱。
+**2015年：** [固态射频技术的进步](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7173133)催生了一波精美的概念炉。
 
-> 固态微波炉在能量分配和烹饪精度方面优于磁控管驱动的炉具。频率灵活性允许通过±50 MHz范围内改变频率对负载进行更均匀的能量分配，优化能量模式。在多信道系统中，配备多个功率放大器和天线，相位移相技术调整场分布以实现更大的均匀性。频率和相位灵活性根据负载条件调整射频功率，确保高效率（超过90%），即使对于小负载。高分辨率射频功率控制避免过度烹饪，特别是对于精细食物，前向/反向功率测量确保精确的能量输送和一致的烹饪结果。
+> 固态微波炉相比于磁控管驱动的炉子，提供了更好的能量分配和烹饪精度。频率灵活性允许通过在2.45 GHz周围使用±50 MHz的频率变化，实现更均匀的能量分布。在多通道系统中，多个功率放大器和天线通过相位移变换器修改场分布，以提高均匀性。频率和相位灵活性调整射频功率，以匹配负载条件，确保高效率（超过90%），即使是对于小负载。高分辨率射频功率控制防止煮焦，尤其是对精细食物，并且前向/反射功率测量实现了精确的能量传递和一致的烹饪结果。
 
-![Panacrunch](https://taylor.town/panacrunch.webp)
+![Panacrunch](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_45.webp)
 
-![more Panacrunch](https://taylor.town/more-panacrunch.webp)
+![更多Panacrunch](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_46.webp)
 
-**2017年：** 松下重新推出了上色元件。
+**2017年：** 松下重新引入烤色元件。
 
-> 一些用微波烹饪的食物可能会有柔软潮湿的外壳。Panacrunch Pan配件可以让比萨饼、咸派、馅饼和面包制品像常规烤箱那样变得酥脆、上色。Panacrunch Pan通过三种方式工作：吸收微波加热锅，加热食物和通过烧烤加热食物。锅的底部吸收微波，并将其转化为热量，然后传导给食物。非粘表面最大限度地提高了加热效果。
+> 一些在微波中烹饪的食物可能会有软而潮湿的外皮。Panacrunch Pan配件可以为比萨、咸派、馅饼和面包产品烤脆。Panacrunch Pan通过三种方式工作：通过吸收微波加热锅，通过微波直接加热食物，以及通过烤箱加热食物。锅的底部吸收微波并转化为热量，随后传导到食物。非粘涂层最大化了加热效果。
 > 
 > -- [松下NN-GD368M手册](https://www.manualslib.com/manual/1178997/Panasonic-Nn-Gd368m.html?page=18)
 
-![Miele Dialog](https://taylor.town/miele-dialog.webp)
+![美诺对话](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_47.webp)
 
-![半熟三文鱼](https://taylor.town/half-salmon.webp)
+![半熟三文鱼](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_48.webp)
 
-**2017年：** [Miele Dialog](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)（[演示](https://www.youtube.com/watch?v=wMwjHnspohU)）利用RF发射器/传感器反馈环加热。
+**2017年：** [美诺对话](https://www.miele.com/brand/en/revolutionary-excellence-38683.htm)（[演示](https://www.youtube.com/watch?v=wMwjHnspohU)）通过射频发射器/传感器的反馈回路进行烹饪。
 
-通过精细调整频率/相位/幅度，Dialog能够[准确治疗一半的三文鱼](https://reviewed.usatoday.com/ovens/features/we-tried-an-oven-that-cooks-by-listening-to-your-food-and-its-amazing-miele-dialog)。如果不喜欢潮湿的三文鱼，这个烤箱还提供对流/烧烤加热。
+通过微调频率/相位/幅度，对话能[精确烹饪半条三文鱼](https://reviewed.usatoday.com/ovens/features/we-tried-an-oven-that-cooks-by-listening-to-your-food-and-its-amazing-miele-dialog)。如果您不喜欢潮湿的三文鱼，这款烤箱还提供对流/烤箱加热。
 
-Miele的技术最初是由Goji开发的，该公司[演示](https://spectrum.ieee.org/israeli-startup-goji-is-planning-the-oven-of-the-future)用于解冻冷冻人类器官（用于医疗用途）。
+美诺的技术最初是[Goji](https://spectrum.ieee.org/israeli-startup-goji-is-planning-the-oven-of-the-future)开发的，用于解冻（用于医学上用途的）人类器官。
 
-如果你对硬件感兴趣，[NXP的智能解冻](https://community.nxp.com/t5/NXP-Designs-Knowledge-Base/Defrost-Your-Food-in-Minutes/ta-p/1119868)可能使用类似的技术：
+如果您对硬件感兴趣，[NXP的智能解冻](https://community.nxp.com/t5/NXP-Designs-Knowledge-Base/Defrost-Your-Food-in-Minutes/ta-p/1119868)可能使用类似的技术：
 
-> 源（振荡器）能量经过Laterally Diffused Metal Oxide Semiconductor (LDMOS)技术放大到大约300瓦（54.8 dBm）。智能调谐单元（STU）根据所选食品的特性调整装置的操作，以最佳匹配。
+> 源能量（振荡器能量）然后使用横向扩散金属氧化物半导体（LDMOS）技术放大到大约300瓦（54.8 dBm）。智能调谐单元（STU）根据解冻室中所选食物的特性调整该装置的操作。
 > 
-> -- [高频电子](https://www.highfrequencyelectronics.com/index.php?option=com_content&view=article&id=1954:let-s-warm-things-up&catid=161&Itemid=189)
+> -- [高频电子学](https://www.highfrequencyelectronics.com/index.php?option=com_content&view=article&id=1954:let-s-warm-things-up&catid=161&Itemid=189)
 
-[![GE Scan-to-Cook](https://taylor.town/ge-scan-to-cook.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
+[![GE扫描-烹饪](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_49.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
 
-[![GE Smart Alexa](https://taylor.town/ge-alexa.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
+[![GE智能Alexa](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_50.webp)](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/3/)
 
-**2018年：** GE智能微波炉兼容Alexa，并附带配套应用。
+**2018年：** GE智能微波炉兼容Alexa，并配有配套应用。
 
-正如所料，[Wired](https://www.wired.com/review/review-ge-smart-countertop-microwave-with-scan-to-cook-technology/)和[CNET](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/4/)对该应用的体验都不佳。
+正如您所期待的，[连线](https://www.wired.com/review/review-ge-smart-countertop-microwave-with-scan-to-cook-technology/)和[CNET](https://www.cnet.com/pictures/use-alexa-and-an-app-to-cook-with-ges-scan-to-cook-microwave/4/)对该应用都有负面体验。
 
-![AmazonBasics Microwave](https://taylor.town/AlexaMicro.webp)
+![亚马逊Basics微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_51.webp)
 
-**2018年：** 亚马逊销售了一款非常实惠的语音控制微波炉。
+**2018年：** 亚马逊推出一款价格非常便宜的微波炉，配有语音控制。
 
-> 这款微波炉足够简单，你可以说：“Alexa，微波一块土豆”，或者走到微波炉旁，按下按钮并说：“一块土豆。”Alexa会说：“好的，”微波炉会自动设定为六分钟三十秒。
->
-> … 不同的是，普通微波炉会询问你土豆的重量，但Alexa奇怪地没有询问。
->
-> 亚马逊的微波炉还有一个爆米花补货功能，你可以选择自愿接收供给。你可以设置家中有多少袋爆米花，Alexa会记录你微波了一袋爆米花，并减去数量，提醒自动送货到你指定的地址。
+> 这款微波炉确实简化了操作，您可以说：“Alexa，微波加热一个土豆”，或者走到微波炉前，轻触按钮后说：“一个土豆。” Alexa会说：“好的。”微波炉将自动设定为六分钟三十秒。
 > 
-> -- [The Verge](https://www.theverge.com/2018/11/21/18103123/amazonbasics-amazon-microwave-alexa-voice-commands-review-features)
-
-![Balmuda The Range](https://taylor.town/balmuda-range.webp)
-
-**2020年：** [Balmuda](https://us.balmuda.com/)生产了一款迷人的对流/微波炉。
-
-![Midea-made microwaves dominate the US market.](https://taylor.town/midea.webp)
-
-**2020年：** NYT发布了一篇关于美的制造的微波炉的病毒式报道。
-
-> 我们证实美的制造、销售Toshiba、Comfee和Black+Decker的微波炉。我们还确信GE、惠而浦、Breville、Insignia等也销售美的制造的微波炉，尽管所有我们联系的各方都拒绝评论。
+> ……与普通微波炉不同的是，正常微波炉会询问您土豆的重量，而Alexa奇怪地没有询问。
 > 
-> Galanz（与美的仅30分钟车程）在全球拥有大型市场份额，但在美国市场的份额较小。
+> 亚马逊的微波炉还具有爆米花补充功能，您可以选择启用，该功能由该公司的Dash服务驱动。您可以设置家中有多少袋爆米花，当您微波加热一袋爆米花时，Alexa会注意并减去数量，提示向您选定的地址自动发货一袋爆米花。
 > 
-> LG和三星制造自己的微波炉。
+> -- [《边缘》](https://www.theverge.com/2018/11/21/18103123/amazonbasics-amazon-microwave-alexa-voice-commands-review-features)
+
+![Balmuda The Range](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_52.webp)
+
+**2020年：** [Balmuda](https://us.balmuda.com/)生产了一款华丽的对流/微波炉。
+
+![美的微波炉主导美国市场。](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_53.webp)
+
+**2020年：** 《纽约时报》发布了一篇关于美的制造微波炉的病毒故事。
+
+> 我们确认美的制造并销售东芝、康菲和百德炉子。我们也很确定GE、惠而浦、Breville、Insignia等也销售可能是美的制造、设计的微波炉，尽管我们联系的各方都拒绝评论。
 > 
-> 松下制造自己的中高档产品，但预算型号似乎由美的生产。
+> Galanz（距离美的只有30分钟的车程）在全球占有重要份额，但在美国市场占有份额很小。
 > 
-> -- [纽约时报Wirecutter](https://x.com/wirecutter/status/1263549118443552768)
-
-需要明确的是，纽约时报的推文并不是调查性质的——美的的生产能力在1990年代就已经显著：
-
-> 美的从1999年开始生产微波炉，到2001年底已在市场上占据9.5%的份额，跻身行业前列。
+> LG和三星自己制造微波炉。
 > 
-> 据中国家电协会的统计，前四个月，格兰仕的市场份额为56%，LG紧随其后，占23%。
+> 松下生产中高档单位，但预算型的似乎是美的制造的。
 > 
-> 美国品牌惠而浦在4月宣布将其两条微波炉产品线从瑞典转移到广东省顺德，并增加600万美元的投资将顺德的年产量从130万台提升至200万台。
+> -- [《纽约时报》Wirecutter](https://x.com/wirecutter/status/1263549118443552768)
+
+明确地说，《纽约时报》的推文并没有进行调查——美的的生产量在1990年代已经显著：
+
+> 美的在1999年开始生产微波炉，到2001年底已占有9.5%的市场份额，跻身该行业前三。
 > 
-> -- [China.org.cn](http://www.china.org.cn/english/BAT/36577.htm)
+> 根据中国家用电器协会的统计，年初四个月内，格兰仕在市场上占有56%的份额，其次是LG占23%。
+> 
+> 美国品牌惠而浦宣布于4月将其两条微波炉产品线从瑞典转移至广东省顺德市，并增加600万美元的投资，以提升其在顺德的年生产能力，从130万台提高至200万台。
+> 
+> -- [中国网](http://www.china.org.cn/english/BAT/36577.htm)
 
-![Makita Microwave](https://taylor.town/makita-microwave.webp)
+![牧田微波炉](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_54.webp)
 
-**2023年：** Makita[销售一款500W的电池驱动微波炉](https://www.youtube.com/watch?v=0RYwaDaIOwk)。
+**2023年：** 牧田[销售一款500W的电池供电微波炉](https://www.youtube.com/watch?v=0RYwaDaIOwk)。
 
-![GE Kitchen Hub 2](https://taylor.town/ge-kh-2.webp)
+![GE厨房中心2](https://scillidan.github.io/image_post/a-history-of-microwave-ovens_55.webp)
 
-**2024年：** 在[2020的首发后](https://www.cnet.com/home/smart-home/ge-kitchen-hub-adds-a-microwave-to-kitchen-hub-touchscreen-display/)，GE Kitchen Hub 2还未上架。
+**2024年：** 在[2020年首演后](https://www.cnet.com/home/smart-home/ge-kitchen-hub-adds-a-microwave-to-kitchen-hub-touchscreen-display/)，GE厨房中心2尚未上市。
 
-[B*itches be like: "I got my first kiss today omggg" B*itch i got my first Toshiba EM131A5C-BS Microwave Oven with Smart Sensor Easy Clean Interior, ECO Mode and Sound On-Off, 1.2 Cu. ft with Black Stainless Steel](https://www.reddit.com/r/teenagers/comments/q9yf8g/bitches_be_like_i_got_my_first_kiss_today_omggg/)
+*[B*itches是这样说的：“我今天第一次亲吻，天哪” B*itch我第一次拥有东芝EM131A5C-BS微波炉，配备智能传感器、易清洁内壁、生态模式和声音开关，容量为1.2立方英尺，黑色不锈钢。](https://www.reddit.com/r/teenagers/comments/q9yf8g/bitches_be_like_i_got_my_first_kiss_today_omggg/)*
 
 [GPT-4o mini]
 

@@ -40,4 +40,13 @@
 
 加拉斯特罗说：“你所穿的，以及你穿着的方式，具有深远的意义。”
 
+另见：
+
+- [中世纪时尚潮流](https://www.medievalists.net/2014/07/06/medieval-fashion-trend/)
+- [**“服装的过度奢华”：都铎时期英格兰的奢侈法令**](https://www.medievalists.net/2012/04/29/the-inordinate-excess-in-apparel-sumptuary-legislation-in-tudor-england/)
+- [**“全新的方式”：中世纪时尚的诞生**](https://www.medievalists.net/2012/06/07/de-novo-modo-the-birth-of-fashion-in-the-middle-ages/)
+
+来源：[剑桥大学](http://www.cam.ac.uk/research/features/fancy-pants-skirmishes-with-the-fashion-police-in-16th-century-italy)
+
 [GPT-4o mini]
+

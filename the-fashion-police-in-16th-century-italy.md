@@ -2,7 +2,7 @@
 
 On 15 September 1595, a Genoese man-about-town called Salvagio de Aste was spotted breaking the law. The record in Genoa’s state archives describes with remarkable precision what Salvagio was wearing that autumn day as he strolled through the square of San Siro. He must have cut a dashing figure. He sported “an embroidered cap, a silk doublet of many colours with gold buttons on the sleeves, two rings with white stones on his fingers, a jerkin and embroidered hose in black silk”.
 
-[![Renaissance Fashion](the-fashion-police-in-16th-century-italy_01.webp)](https://www.medievalists.net/2014/10/02/fashion-police-16th-century-italy/renaissance-fashion/)
+[![Renaissance Fashion](https://scillidan.github.io/image_post/the-fashion-police-in-16th-century-italy_01.webp)](https://www.medievalists.net/2014/10/02/fashion-police-16th-century-italy/renaissance-fashion/)
 
 The detail with which Salvagio’s attire was noted is no accident: his showy and costly clothing was his crime. His colourful and lavishly embellished costume had fallen foul of Genoa’s Magistrato delle Pompe, whose role it was to enforce the sumptuary laws that regulated what men and women could wear. Patrolling the streets and squares of the bustling city as arbiters of the level of ostentation that was deemed appropriate, the sumptuary magistrates were quite simply the Fashion Police.
 
@@ -28,7 +28,7 @@ Historians have often presumed that, where sumptuary laws mention men at all, it
 
 “It’s interesting that the majority of the offences relate to an outfit of black silk – taffeta, satin or velvet – ornamented with some sort of precious metal stitching or with lace. Just such an outfit appears in a portrait of an anonymous Genoese nobleman by the artist van Dyck which, to modern eyes, looks relatively sober. But black was a clear status symbol in Renaissance culture. Black dye was one of the most difficult to fix effectively, so we should be careful how we interpret these apparently ‘plain’ portraits,” said Galastro.
 
-[![Portrait by Anthony van Dyck of the Lomellini family in Genoa, 1623](the-fashion-police-in-16th-century-italy_02.webp)](https://www.medievalists.net/2014/10/02/fashion-police-16th-century-italy/anthony_van_dyck_genoa/)
+[![Portrait by Anthony van Dyck of the Lomellini family in Genoa, 1623](https://scillidan.github.io/image_post/the-fashion-police-in-16th-century-italy_02.webp)](https://www.medievalists.net/2014/10/02/fashion-police-16th-century-italy/anthony_van_dyck_genoa/)
 
 Portrait by Anthony van Dyck of the Lomellini family in Genoa, 1623
 
@@ -52,4 +52,4 @@ See also:
 - [**‘The inordinate excess in apparel’: Sumptuary Legislation in Tudor England**](https://www.medievalists.net/2012/04/29/the-inordinate-excess-in-apparel-sumptuary-legislation-in-tudor-england/)
 - [**‘De novo modo’: The birth of fashion in the Middle Ages**](https://www.medievalists.net/2012/06/07/de-novo-modo-the-birth-of-fashion-in-the-middle-ages/)
 
-Source: [University of Cambridge](http://www.cam.ac.uk/research/features/fancy-pants-skirmishes-with-the-fashion-police-in-16th-century-italy)
+Source: [University of Cambridge](http://www.cam.ac.uk/research/features/fancy-pants-skirmishes-with-https://scillidan.github.io/image_post/the-fashion-police-in-16th-century-italy)

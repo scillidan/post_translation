@@ -137,3 +137,6 @@
 
 ![](https://scillidan.github.io/image_post/8-stretches-to-do-before-bed_08.webp)  
 图片来源：Active Body, Creative Mind
+
+[GPT-4o mini]
+
