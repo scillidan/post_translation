@@ -125,7 +125,7 @@ _请看这里，这页《圣经》的侧边注释流出文本左列。_
 
 InDesign具备脚注功能，并且在从Word中正确导入（放置）文本时，会带有脚注。它还拥有一组复杂的配置选项，便于展示脚注以及文本内部的引用。
 
-[![在Adobe InDesign中配置脚注](https://scillidan.github.io/image_post/footnotes-and-asides_12.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_12.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_12.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_12.webp" controls preload="none"></video>
 在Adobe InDesign中配置脚注
 
 对于尾注，也有类似的配置选项。
@@ -134,7 +134,7 @@ InDesign具备脚注功能，并且在从Word中正确导入（放置）文本�
 
 InDesign中没有直接创建边注的选项，因为这需要在边缘留出空间。然而，彼得·卡赫雷尔创建了一组InDesign脚本，可以将脚注放置在任意地方，且随您喜欢的方式显示它们。[^3]
 
-[![脚注已经通过脚本变为边注](https://scillidan.github.io/image_post/footnotes-and-asides_13.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_13.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_13.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_13.webp" controls preload="none"></video>
 脚注已经通过脚本变为边注
 
 ## 基于屏幕的媒介
@@ -145,7 +145,7 @@ InDesign中没有直接创建边注的选项，因为这需要在边缘留出空
 
 MAC上的Hypercard能够创建页面链接，同时在鼠标点击时弹出参考和词汇项，如在此处的维亚戈出版的《麦克白》中所见。[ ^4]
 
-[![Hypercard《麦克白》的页面，维亚戈光盘](https://scillidan.github.io/image_post/footnotes-and-asides_14.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_14.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_14.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_14.webp" controls preload="none"></video>
 Hypercard《麦克白》的页面，维亚戈光盘
 
 在基于屏幕的媒介中，我们可以采用其他方法将文本中的引用与脚注内容进行链接。当然，我们不能再称其为脚注，这些可能是_超级链接_或_弹出窗口_。
@@ -156,7 +156,7 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 
 超文本一词最初是由泰德·尼尔森在1963年提出的。这个概念经过进一步发展，许多人采用了这一术语。有关超文本的历史，请参阅雅各布·尼尔森的书，《超文本与超媒体》（后来以《多媒体与超文本：互联网及其后》重新出版，摩根·考夫曼出版社，1995年）。[^5]
 
-[![在Hypercard堆栈中超文本的定义](https://scillidan.github.io/image_post/footnotes-and-asides_15.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_15.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_15.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_15.webp" controls preload="none"></video>
 在Hypercard堆栈中超文本的定义
 
 尽管Hypercard有很多跟随者，但它是在一款名为_Guide_的超文本创作系统之后推出的，该软件公司是位于爱丁堡的组织。该系统创建了_锚点_，通过鼠标点击引导到目标或弹出窗口。
@@ -165,7 +165,7 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 
 该示例所使用的软件为_MAC的Supercard（Allegiant Technologies，一种增强版Hypercard）和Windows PC的_Toolbook（Asymetrix Corporation）_。
 
-[![在莎士比亚文本中显示弹出词汇表。_暴风剧_ CD-ROM，BBC/哈珀·柯林斯](https://scillidan.github.io/image_post/footnotes-and-asides_16.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_16.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_16.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_16.webp" controls preload="none"></video>
 在莎士比亚文本中显示弹出词汇表。_暴风剧_ CD-ROM，BBC/哈珀·柯林斯
 
 我们现在可以通过**TED**演讲将其引入全球网络，演讲者艾恩·里奇是Owl Ltd的所有者，据他的TED演讲[^6]，他拒绝了蒂姆·伯纳斯-李的接触，后者是万维网的发明者。
@@ -183,7 +183,7 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 
 更复杂的方法是使链接弹出补充信息，但这依赖于使用JavaScript。直到1995年，这才得以实现，但如您所见，这打开了使用信息重叠的可能性，而不是一个信息节点替换另一个信息节点。
 
-[![在覆盖窗口中弹出信息](https://scillidan.github.io/image_post/footnotes-and-asides_18.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_18.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_18.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_18.webp" controls preload="none"></video>
 在覆盖窗口中弹出信息
 
 ## 网络上的脚注
@@ -200,21 +200,21 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 
 在此示例中，脚注引用引导到浏览器窗口底部的脚注。注意，返回链接使源在浏览器窗口顶部返回，而不是我们阅读的位置。
 
-[![上标数字的链接引导到网页底部](https://scillidan.github.io/image_post/footnotes-and-asides_19.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_19.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_19.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_19.webp" controls preload="none"></video>
 上标数字的链接引导到网页底部
 
 一旦我们进入互动阅读和观察引用的模式，引用或源锚点就不再需要在引用之后，而可以在引用内部。因此，我们可以**点击**或**触碰**要展开的项目。
 
 在这一变化版本中，我们会看到整段文字都是链接。
 
-[![这里的链接是整个短语，而不是参考编号](https://scillidan.github.io/image_post/footnotes-and-asides_20.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_20.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_20.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_20.webp" controls preload="none"></video>
 这里的链接是整个短语，而不是参考编号
 
 ### 使用JavaScript的边注
 
 安德鲁·克拉克创造了一种优雅的方法，当页面宽度允许时，可以将您的脚注转换为边注。尽管边注转换成功，脚注仍会保留。[^7]
 
-[![安德鲁·克拉克的网站](https://scillidan.github.io/image_post/footnotes-and-asides_21.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_21.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_21.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_21.webp" controls preload="none"></video>
 安德鲁·克拉克的网站
 
 ## 弹出框的时间
@@ -227,14 +227,14 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 
 在我的网站（_publisha.github.io_）中，我使用了由克里斯·索维提供的jQuery插件。该插件（可在此处获取：_https://github.com/lemonmade/bigfoot_）将脚注转换为目标的弹出框，同时也提供了一个仍在网页底部出现的后备标准脚注。您可以在这里查看该功能：
 
-[![脚注在网页上变为JavaScript弹出窗口](https://scillidan.github.io/image_post/footnotes-and-asides_22.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_22.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_22.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_22.webp" controls preload="none"></video>
 脚注在网页上变为JavaScript弹出窗口
 
 ## 提示或悬停
 
 提供补充信息的另一种方式是通过提示。文本块在光标悬停在文本的引用点时会出现。一般来说，这将通知用户当他们点击时会发生什么，但也可以传递更复杂的信息。
 
-[![这展示了在鼠标悬停时提示的样子](https://scillidan.github.io/image_post/footnotes-and-asides_23.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_23.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_23.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_23.webp" controls preload="none"></video>
 这展示了在鼠标悬停时提示的样子
 
 在移动设备上表现良好的响应式网站不能依赖悬停操作触发这些弹出，因为_悬停_并不是默认操作的设备可以执行的选项。
@@ -320,11 +320,11 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 ### 这是我们可以在固定布局ePub中实现的效果。
 
 这是APGRD的 _美狄亚：表演历史_ 的ePub版本。  
-[![来自《美狄亚》的交互式电子书页面](https://scillidan.github.io/image_post/footnotes-and-asides_26.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_26.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_26.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_26.webp" controls preload="none"></video>
 来自《美狄亚》的交互式电子书页面
 
 我的一名硕士生创建了这本增强型电子书，展示了莫扎特的 _魔笛_。该电子书包括音乐和叙述弹出注释。  
-[![一名硕士生玛利亚·霍克的魔笛增强电子书](https://scillidan.github.io/image_post/footnotes-and-asides_27.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_27.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_27.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_27.webp" controls preload="none"></video>
 一名硕士生玛利亚·霍克的魔笛增强电子书
 
 有关于从InDesign制作弹出文本的固定布局电子书的说明可在我的录播频道中查找 [在播客名单中](https://publisha.github.io/screencasts/ "查看录播列表")。
@@ -334,11 +334,11 @@ Hypercard在MAC上传播了许多“堆栈”（Hypercard应用的术语），�
 这个仅限于Apple的创作工具创建了Apple所称的多点触控书籍。许多功能使得添加补充内容成为可能。
 
 关于此工具集，我将展示一些我的学生在他们的莎士比亚剧本中展示这些功能的作品。  
-[![iBooks Author能生成弹出词汇表](https://scillidan.github.io/image_post/footnotes-and-asides_28.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_28.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_28.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_28.webp" controls preload="none"></video>
 iBooks Author能生成弹出词汇表
 
 _在这里，我们看到词汇表为“错误的喜剧”中地理位置提供额外信息，由硕士生萨姆·阿什克罗夫特制作。_  
-[![词汇表和弹出注释](https://scillidan.github.io/image_post/footnotes-and-asides_29.webp)](https://scillidan.github.io/image_post/footnotes-and-asides_29.mp4)  
+<video src="https://scillidan.github.io/image_post/footnotes-and-asides_29.mp4" poster="https://scillidan.github.io/image_post/footnotes-and-asides_29.webp" controls preload="none"></video>
 词汇表和弹出注释
 
 _在《十二夜》的这个版本中，硕士生艾丽西亚·巴拉德使用了词汇表和弹出注释。_ 
